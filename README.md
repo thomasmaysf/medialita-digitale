@@ -19,27 +19,34 @@ Open [http://127.0.0.1:8000](http://127.0.0.1:8000). Use `mkdocs build --strict`
 
 Module pages live in `docs/moduli/` (`modulo-1.md` … `modulo-5.md`).
 
-## Deployment (primary): Cloudflare Workers
+## Deployment (current): GitHub Pages
 
 Pushes to `main` run [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml):
 
 1. `mkdocs build --strict`
-2. Deploy the `site/` directory with [Wrangler](https://developers.cloudflare.com/workers/wrangler/) via `cloudflare/wrangler-action`
+2. Publish `site/` with `actions/configure-pages`, `actions/upload-pages-artifact`, and `actions/deploy-pages`
 
-Configuration: [`wrangler.toml`](wrangler.toml) (`name = "medialita-digitale"`, `[assets] directory = "./site"`).
+**One-time setup**
 
-### Repository secrets (one-time)
+1. **Settings → Pages → Build and deployment → Source:** choose **GitHub Actions** (not “Deploy from a branch”).
+2. On GitHub’s **free plan**, the repository must be **public** for GitHub Pages on `github.io` (private repos need a paid plan for Pages).
 
-In **GitHub → Settings → Secrets and variables → Actions**, add:
+After deploy, the site is at:
 
-| Secret | Purpose |
-|--------|---------|
-| `CLOUDFLARE_API_TOKEN` | API token with permission to deploy Workers (e.g. “Edit Cloudflare Workers”) |
-| `CLOUDFLARE_ACCOUNT_ID` | Your Cloudflare account ID |
+**https://thomasmaysf.github.io/medialita-digitale/**
 
-After a successful deploy, the site is available at the Worker’s **workers.dev** URL (for example `https://medialita-digitale.<subdomain>.workers.dev`). You can attach a **custom domain** later in the Cloudflare dashboard for that Worker.
+(`site_url` in `mkdocs.yml` is set to match.)
 
-### Manual deploy
+Pull requests run the same build (strict) without deploying.
+
+## Future migration: Cloudflare Workers
+
+[`wrangler.toml`](wrangler.toml) is kept for a possible move to Cloudflare static assets (`name = "medialita-digitale"`, `[assets] directory = "./site"`). This is **not** deployed automatically.
+
+When you are ready:
+
+1. Add Actions secrets `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`.
+2. Run the manual workflow [`.github/workflows/deploy-cloudflare.yml`](.github/workflows/deploy-cloudflare.yml) from the Actions tab, or deploy locally:
 
 ```bash
 pip install -r requirements.txt
@@ -47,8 +54,4 @@ mkdocs build --strict
 npx wrangler deploy
 ```
 
-Requires Wrangler authentication (`wrangler login` or `CLOUDFLARE_API_TOKEN` in the environment).
-
-## Alternative: GitHub Pages (not enabled)
-
-This repository does **not** ship an active GitHub Pages workflow. If you prefer Pages instead of Workers, you can add a workflow that uploads `site/` with `actions/upload-pages-artifact` and `actions/deploy-pages`, and set **Settings → Pages → Source** to **GitHub Actions**. Only one primary host is recommended to avoid duplicate deployments.
+Update `site_url` in `mkdocs.yml` to the Worker URL (or custom domain), switch off GitHub Pages if you no longer want two hosts, and prefer a single primary deployment.
