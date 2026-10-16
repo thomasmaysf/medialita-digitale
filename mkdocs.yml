@@ -1,0 +1,65 @@
+site_name: Educazione alla Medialità Digitale
+site_description: Wiki del programma Patentino digitale — Scuola Rudolf Steiner, Trento
+site_url: https://thomasmaysf.github.io/medialita-digitale/
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Passa alla modalità scura
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Passa alla modalità chiara
+
+plugins:
+  - search:
+      lang: it
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Calendario: calendario.md
+  - Moduli:
+    - moduli/modulo-1.md
+    - moduli/modulo-2.md
+    - moduli/modulo-3.md
+    - moduli/modulo-4.md
+    - moduli/modulo-5.md
+  - Regole generali: regole-generali.md
+  - Materiali: materiali.md
+  - Iscrizioni: iscrizioni.md
+  - Patto digitale: patto-digitale.md
+  - Risorse: risorse.md
+
+extra:
+  social: []
+
+copyright: Copyright &copy; Gruppo promotore — Scuola Rudolf Steiner, Trento

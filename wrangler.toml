@@ -1,0 +1,9 @@
+# Cloudflare Workers static site (optional future host — see README).
+# Build first: mkdocs build --strict  →  output in ./site
+# Deploy: npx wrangler deploy, or run .github/workflows/deploy-cloudflare.yml manually
+
+name = "medialita-digitale"
+compatibility_date = "2024-08-01"
+
+[assets]
+directory = "./site"
