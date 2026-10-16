@@ -9,8 +9,17 @@
 - Accoglienza, aspettative e domande dei ragazzi.
 - Cosa fanno già con i dispositivi a casa.
 - Presentazione della **scatola delle domande** per i relatori.
-- Domanda di Thomas: *«Quando vedi un bambino di 3 anni con un telefono in mano, cosa provi?»*
-- Visione del cortometraggio Disney **Fantasia**, episodio *L’apprendista stregone*, per riflettere su una forza che non si controlla.
+
+### Domande per il cerchio
+
+1. Se potessi inventare un dispositivo, cosa farebbe?
+2. Quando vedi un bambino di 3 anni con uno smartphone in mano, cosa provi?
+3. Secondo te, come fa un telefono a "sapere" dove tocchi lo schermo?
+4. Cosa vorresti chiedere a chi ha inventato internet o lo smartphone?
+5. Hai mai iniziato qualcosa che poi non riuscivi più a fermare?
+6. Secondo voi, siamo noi a comandare i dispositivi o sono loro a comandare noi?
+
+Le domande 5 e 6 introducono la visione del cortometraggio Disney **Fantasia**, episodio *L’apprendista stregone*, per riflettere su una forza che non si controlla.
 
 ## Pausa (10:20–10:40)
 
