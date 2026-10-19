@@ -1,6 +1,6 @@
 # Modulo 1 — Logica binaria e primi dispositivi
 
-**Tema:** accoglienza, riflessione sul digitale in famiglia, logica binaria (teoria e laboratorio), riconoscere i «mattoni» comuni dei computer.
+**Tema:** accoglienza, riflessione sul digitale in famiglia, logica binaria (teoria e pratica), riconoscere i «mattoni» comuni dei computer.
 
 **Facilitazione:** un facilitatore o una facilitatrice con almeno un secondo adulto; per laboratorio hardware servono due adulti o più.
 
@@ -11,8 +11,7 @@
 | Parte A — Cerchio | 9:00–10:20 |
 | Pausa | 10:20–10:40 |
 | Parte B — Teoria (binario) | 10:40–12:00 |
-| Parte C — Laboratorio (logica e schermo) | 12:00–12:45 |
-| Parte D — Dentro i dispositivi | 12:45–13:20 |
+| Parte C — Dentro i dispositivi | 12:00–13:20 |
 
 ---
 
@@ -51,7 +50,7 @@ Si passa dall’**analogico al digitale** con l’esercizio principale sulle dit
 
 ### Materiali stampabili
 
-PDF da stampare per attività sul pavimento o sul tavolo (ritagliare i gettoni se indicato nel foglio). Servono soprattutto allo **Step 1** e in laboratorio (Parte C).
+PDF da stampare per attività sul pavimento o sul tavolo (ritagliare i gettoni se indicato nel foglio). Il tappetino binario serve allo **Step 1**; i tappetini delle porte logiche all’**extra** facoltativo di Parte B.
 
 [:material-file-pdf-box: Scarica tappetino binario](modulo-1/files/tappetino-binario.pdf){ .md-button }
 Tappetino a **bit** (0/1) con gettoni: per rappresentare numeri e sequenze in binario.
@@ -227,22 +226,24 @@ Domande per arrivare all’idea finale:
 !!! abstract "Idea chiave (il compromesso digitale)"
     La scala non sarà **mai** l’onda, ma può bastare ai nostri occhi e si può **copiare sempre uguale** — come i numeri 0–31 sulle dita allo Step 1. È il compromesso che fa il **digitale**.
 
+### Extra (facoltativo) — Porte logiche con i tappetini
+
+??? tip "Extra"
+    Usate questo blocco **solo** se il gruppo chiude in anticipo le schede (11:40–12:00) o se alcuni ragazzi chiedono «un altro gioco» sul binario. Non è obbligatorio per arrivare alla Parte C.
+
+Stampate i [tappetini delle porte logiche](modulo-1/files/tappetini-porte-logiche.pdf) (tre pagine: **AND**, **OR**, **NOT**) e ritagliate i gettoni 0/1 per ingressi e uscita.
+
+1. **NOT (un ingresso):** un gettone in ingresso; l’uscita è l’opposto. *«Se qui metto 1, cosa deve uscire? E se metto 0?»*
+2. **AND (due ingressi):** l’uscita è 1 **solo** se entrambi gli ingressi sono 1. Provate tutte e quattro le combinazioni sul tappetino.
+3. **OR (due ingressi):** l’uscita è 1 se **almeno** un ingresso è 1.
+
+In coppia o in squadre: un adulto legge una frase (*«Entrambi i genitori dicono sì»* → AND; *«Almeno uno vuole il gelato»* → OR) e i ragazzi impostano i gettoni. Collegate al binario: *«Ogni ingresso è un bit; la porta decide l’uscita come fa il computer, un passo alla volta.»*
 
 ---
 
-## Parte C — Logica binaria, laboratorio
+## Parte C — Dentro i dispositivi {#parte-c-dentro-i-dispositivi}
 
-*Esempio di orario: 12:00–12:45.*
-
-- Attività con i [tappetini delle porte logiche](modulo-1/files/tappetini-porte-logiche.pdf) (gettoni, AND/OR/NOT in gruppo).
-- **Cristalli liquidi e touch screen:** mostrate come lo schermo «legge» il tocco (senza aprire dispositivi personali dei ragazzi).
-- Collegate al binario: *«Ogni decisione della porta è un bit: sì o no, acceso o spento.»*
-
-La discesa dentro l’hardware (PC, portatile, Raspberry Pi, smartphone) è nella [Parte D](#parte-d-dentro-i-dispositivi).
-
-## Parte D — Dentro i dispositivi {#parte-d-dentro-i-dispositivi}
-
-*Esempio di orario: 12:45–13:20 (subito dopo la Parte C o in un secondo incontro).*
+*Esempio di orario: 12:00–13:20.*
 
 Si attraversano quattro «taglie» di computer, dallo **desktop** al **telefono**, cercando sempre le stesse famiglie di componenti. Più il dispositivo è piccolo e integrato, meno i pezzi si vedono separati — ma la logica resta quella dei **transistor** che agiscono come interruttori (come i bit sulle dita in Parte B).
 
