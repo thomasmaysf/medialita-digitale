@@ -14,6 +14,6 @@ Le famiglie che aderiscono si impegnano a rispettare un **Patto digitale** condi
 
 ## Chi promuove il progetto
 
-Il programma è promosso da un **gruppo di genitori e docenti** della Scuola Rudolf Steiner di Trento, in collaborazione con relatori esterni su temi tecnici e pedagogici. Questa wiki raccoglie calendario, materiali e regole operative per chi partecipa.
+Il programma è promosso da un **gruppo di genitori e docenti** della Scuola Rudolf Steiner di Trento, in collaborazione con facilitatori volontari su temi tecnici e pedagogici. Questa wiki raccoglie calendario, materiali e regole operative per chi partecipa.
 
 Per approfondimenti e documenti di lavoro, consultate la pagina [Risorse](risorse.md).

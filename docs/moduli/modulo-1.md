@@ -1,14 +1,26 @@
-# Modulo 1 — Sabato 17 ottobre 2026
+# Modulo 1 — Logica binaria e primi dispositivi
 
-**Tema:** accoglienza, riflessione sul digitale in famiglia, logica binaria (teoria e laboratorio).
+**Tema:** accoglienza, riflessione sul digitale in famiglia, logica binaria (teoria e laboratorio), riconoscere i «mattoni» comuni dei computer.
+
+**Facilitazione:** un facilitatore o una facilitatrice con almeno un secondo adulto; per laboratorio hardware servono due adulti o più.
+
+### Esempio di orario (da adattare)
+
+| Blocco | Orario indicativo |
+|--------|-------------------|
+| Parte A — Cerchio | 9:00–10:20 |
+| Pausa | 10:20–10:40 |
+| Parte B — Teoria (binario) | 10:40–12:00 |
+| Parte C — Laboratorio (logica e schermo) | 12:00–12:45 |
+| Parte D — Dentro i dispositivi | 12:45–13:20 |
 
 ---
 
-## Parte A — Cerchio (9:00–10:20)
+## Parte A — Cerchio
 
 - Accoglienza, aspettative e domande dei ragazzi.
 - Cosa fanno già con i dispositivi a casa.
-- Presentazione della **scatola delle domande** per i relatori.
+- Presentazione della **scatola delle domande** per gli adulti (domande anonime per i facilitatori).
 
 ### Domande per il cerchio
 
@@ -21,15 +33,15 @@
 
 Le domande 5 e 6 introducono la visione del cortometraggio Disney **Fantasia**, episodio *L’apprendista stregone*, per riflettere su una forza che non si controlla.
 
-## Pausa (10:20–10:40)
+## Pausa
 
-## Parte B — Logica binaria, teoria (10:40–12:00)
+## Parte B — Logica binaria, teoria
 
-**Relatori:** Thomas e Antonio
+*Esempio di orario: 10:40–12:00 (80 min).*
 
-Passaggio dall’**analogico al digitale** con l’esercizio principale sulle dita, poi la metafora dell’onda e della griglia alla lavagna, infine le schede esercizi.
+Si passa dall’**analogico al digitale** con l’esercizio principale sulle dita, poi la metafora dell’onda e della griglia alla lavagna, infine le schede esercizi.
 
-**Tempi suggeriti (10:40–12:00, 80 min)**
+**Tempi suggeriti (esempio, 80 min)**
 
 | Blocco | Durata | Orario indicativo |
 |--------|--------|-------------------|
@@ -117,7 +129,7 @@ Bit in ordine **mignolo → pollice** (16, 8, 4, 2, 1), come sul tappetino.
 2. **Tre dita (0–7), ~7 min** — Ripetete fino a 7; poi *«Ogni dito nuovo **raddoppia** quanti numeri potete fare?»*
 3. **Cinque dita (0–31), ~10 min** — Salite a 16 (solo mignolo), poi 17, … fino a 31. Celebrate il **31** tutti insieme.
 4. **Giochi in coppia, ~7 min** — Uno mostra le dita, l’altro dice il numero; poi invertite. Variante: uno dice un numero, l’altro lo mostra.
-5. **Giro veloce, ~3 min** — Il docente chiama numeri a caso; chi risponde prima (mano giusta) vince un punto simbolico.
+5. **Giro veloce, ~3 min** — Il facilitatore o la facilitatrice chiama numeri a caso; chi risponde prima (mano giusta) vince un punto simbolico.
 
 #### Domande per il cerchio (chiusura Step 1)
 
@@ -218,13 +230,85 @@ Domande per arrivare all’idea finale:
 
 ---
 
-## Parte C — Logica binaria, laboratorio (12:00–13:20)
+## Parte C — Logica binaria, laboratorio
 
-**Relatori:** Thomas, Antonio, Stefano
+*Esempio di orario: 12:00–12:45.*
 
-- Cristalli liquidi e touch screen.
-- Smontaggio di un vecchio PC e distruzione controllata di uno smartphone (attività guidata).
-- Possibili interventi delle maestre **Biffi** (PC) e **Saitta** (scheda perforata del telaio).
+- Attività con i [tappetini delle porte logiche](modulo-1/files/tappetini-porte-logiche.pdf) (gettoni, AND/OR/NOT in gruppo).
+- **Cristalli liquidi e touch screen:** mostrate come lo schermo «legge» il tocco (senza aprire dispositivi personali dei ragazzi).
+- Collegate al binario: *«Ogni decisione della porta è un bit: sì o no, acceso o spento.»*
+
+La discesa dentro l’hardware (PC, portatile, Raspberry Pi, smartphone) è nella [Parte D](#parte-d-dentro-i-dispositivi).
+
+## Parte D — Dentro i dispositivi {#parte-d-dentro-i-dispositivi}
+
+*Esempio di orario: 12:45–13:20 (subito dopo la Parte C o in un secondo incontro).*
+
+Si attraversano quattro «taglie» di computer, dallo **desktop** al **telefono**, cercando sempre le stesse famiglie di componenti. Più il dispositivo è piccolo e integrato, meno i pezzi si vedono separati — ma la logica resta quella dei **transistor** che agiscono come interruttori (come i bit sulle dita in Parte B).
+
+### Materiali
+
+- Un **desktop** vecchio (tower) già **scollegato dalla rete**, con coperchio apribile
+- **Due o tre laptop** (anche non funzionanti), uno eventualmente con base smontabile
+- Una **Raspberry Pi** (scheda nuda o in case trasparente) con scheda microSD
+- Un **smartphone** di scorta *oppure* foto / video di teardown approvati (se non si apre un telefono reale)
+- Cacciaviti a croce e a taglio piccoli, vaschetta per viti, **tappetino antistatico** o superficie asciutta
+- Etichette o lavagnetta per nominare i pezzi
+
+### Sicurezza (obbligatoria)
+
+- **Staccate la spina** prima di aprire il desktop; togliete la batteria del laptop se si apre il vano.
+- **Non aprite** alimentatori ATX, batterie gonfie o smartphone con batteria danneggiata; **non toccate** condensatori o parti interne dell’alimentatore.
+- **Solo gli adulti** maneggiano cacciaviti e componenti pesanti o taglienti; i ragazzi osservano a distanza di sicurezza.
+- Indossate occhiali se rimuovete pannelli metallici; attenzione a **bordi affilati** nel chassis.
+- Nessun dato personale sui dispositivi: usate hardware **wipato** o dedicato al laboratorio.
+
+### Svolgimento
+
+#### 1. Desktop aperto (~12 min)
+
+1. Rimuovete il pannello laterale con un adulto che guida. Fate osservare il gruppo da vicino, senza toccare.
+2. Individuate a voce alta, senza fretta: **scheda madre**, **CPU** (sotto il dissipatore), **RAM**, **scheda video** (se presente), **disco** HDD/SSD, **alimentatore** (solo **esterno**, senza aprirlo), **ventole**.
+3. Chiedete: *«Se dovessimo disegnare questo computer come una mappa, quali sono i tre «quartieri»: dove si pensa, dove si ricorda per poco, dove si archivia?»*
+
+#### 2. Laptop (~8 min)
+
+1. Mostrate un portatile **chiuso e spento**, poi il vano (se accessibile): batteria, disco/SSD, ventola, scheda madre più compatta.
+2. Confrontate con il desktop: *«Cosa è sparito in un unico pezzo? Cosa è diventato più piccolo?»*
+3. Un secondo adulto può tenere il gruppo mentre l’altro smonta **solo** ciò che è previsto e reversibile.
+
+#### 3. Raspberry Pi (~6 min)
+
+1. Mostrate la scheda sul palmo: **SoC** (CPU+GPU insieme), slot **microSD** (memoria «disco»), porte USB, alimentazione **5 V**.
+2. Spiegate: *«Qui quasi tutto è su un unico chip. È ancora un computer, ma pensato per costare poco e consumare poco.»*
+3. Opzionale: collegatela a un monitor per mostrare che si accende — solo se avete tempo e setup pronto.
+
+#### 4. Smartphone (~9 min)
+
+1. **Non** è obbligatorio aprirlo: spesso bastano **foto** di teardown e un telefono spento per parlare di **schermo**, **batteria**, **fotocamera**, **antenne** nascoste.
+2. Se mostrate un device aperto (solo adulti): evidenziate che **CPU/GPU/RAM** sono nel **SoC**, la memoria flash è saldata, il raffreddamento è quasi tutto **passivo**.
+3. Messaggio chiave: *«Riconoscete il «computer» dentro? Stesse idee del tower, ma impacchettate come in una barretta di cioccolato.»*
+
+### Tabella comparativa (semplificata)
+
+| Componente / funzione | Desktop | Laptop | Raspberry Pi | Smartphone |
+|----------------------|---------|--------|--------------|------------|
+| Elaborazione (CPU / GPU) | CPU e scheda video spesso separate | CPU/GPU integrati, meno spazio | SoC unico sul chip | SoC unico, non sostituibile |
+| Memoria di lavoro (RAM) | Moduli DIMM visibili | Saldata o su slot stretti | Chip sulla scheda | Integrata nel SoC |
+| Archiviazione | HDD / SSD, cavi visibili | SSD NVMe o SATA compatto | Scheda microSD | Flash saldata |
+| Alimentazione | Alimentatore esterno (non aprire) | Batteria + caricabatterie | USB / GPIO 5 V | Batteria + ricarica |
+| Raffreddamento | Ventole e dissipatori grandi | Ventola / heat pipe | Spesso passivo | Quasi tutto passivo |
+
+### Domande per il gruppo
+
+- Quale pezzo avete **riconosciuto** subito? Quale no?
+- Perché nel telefono è difficile vedere la «scheda madre» come nel desktop?
+- Dove sono, secondo voi, i **miliardi di interruttori** di cui parlava il binario sulle dita?
+- Tutti questi apparecchi hanno bisogno di **energia** e di **non surriscaldarsi**: cosa notate di diverso tra tower e smartphone?
+- Se un computer è solo tanti ON/OFF velocissimi, perché ci serve ancora parlare di **onde** e **analogico** (Parte B)?
+
+!!! abstract "Idea chiave"
+    Desktop, laptop, Raspberry Pi e smartphone sono **computer** con gli stessi ingredienti: transistor che fanno da interruttori (i **bit** che avete contato con le dita), organizzati in **elaborazione**, **memoria**, **archiviazione**, **alimentazione** e **gestione del calore**. Più il dispositivo è integrato, meno vedete i pezzi — ma la logica è la stessa.
 
 ---
 
@@ -232,7 +316,7 @@ Domande per arrivare all’idea finale:
 
 Vedi anche [Regole generali](../regole-generali.md). In sintesi:
 
-- Tutti i relatori presenti per **tutto** il modulo; chi non parla sta in fondo e aiuta la sorveglianza.
+- Tutti gli adulti di facilitazione presenti per **tutto** il modulo; chi non parla sta in fondo e aiuta la sorveglianza.
 - Fotocopie al minimo; **quaderno per ogni ragazzo**.
 - Riepilogo dell’incontro precedente alla lavagna (al modulo 1: introduzione al percorso).
 - **Timbro del patentino** a fine incontro.

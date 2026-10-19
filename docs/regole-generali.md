@@ -2,9 +2,9 @@
 
 Queste regole valgono per **tutti i moduli** del percorso Patentino digitale.
 
-## Presenza dei relatori
+## Presenza degli adulti
 
-- Tutti i relatori restano presenti per **l’intera durata** del modulo.
+- Tutti i facilitatori e gli adulti di supporto restano presenti per **l’intera durata** del modulo.
 - Chi non sta tenendo la parola si colloca **in fondo** all’aula e contribuisce alla sorveglianza e al supporto ai ragazzi.
 
 ## Materiali
@@ -18,5 +18,5 @@ Queste regole valgono per **tutti i moduli** del percorso Patentino digitale.
 
 ## Comportamento e sicurezza
 
-- Attività di laboratorio (smontaggio hardware, ecc.) solo sotto guida dei relatori.
+- Attività di laboratorio (smontaggio hardware, ecc.) solo sotto guida degli adulti preparati.
 - Rispetto dei tempi di pausa e delle uscite concordate con la scuola.
