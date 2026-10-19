@@ -122,6 +122,16 @@ Domande per arrivare all’idea finale:
 - Smontaggio di un vecchio PC e distruzione controllata di uno smartphone (attività guidata).
 - Possibili interventi delle maestre **Biffi** (PC) e **Saitta** (scheda perforata del telaio).
 
+### Materiali stampabili
+
+PDF da stampare per attività sul pavimento o sul tavolo (ritagliare i gettoni se indicato nel foglio).
+
+[:material-file-pdf-box: Scarica tappetino binario](modulo-1/files/tappetino-binario.pdf){ .md-button }
+Tappetino a **bit** (0/1) con gettoni: per rappresentare numeri e sequenze in binario.
+
+[:material-file-pdf-box: Scarica tappetini porte logiche](modulo-1/files/tappetini-porte-logiche.pdf){ .md-button }
+Tre pagine di **tappetini** per porte logiche (AND, OR, NOT, …) con gettoni per ingressi e uscita.
+
 ---
 
 ## Regole operative per questo modulo
