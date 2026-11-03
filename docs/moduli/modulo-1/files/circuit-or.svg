@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 160" role="img" aria-labelledby="title-or">
+  <title id="title-or">Circuito OR: interruttori x e y in parallelo</title>
+  <rect x="8" y="8" width="404" height="144" rx="8" fill="#f5f5f5" stroke="#ccc"/>
+  <text x="210" y="28" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e65100">OR  interruttori in parallelo (x + y  xy)</text>
+  <!-- battery left -->
+  <line x1="40" y1="80" x2="70" y2="80" stroke="#333" stroke-width="2"/>
+  <line x1="70" y1="70" x2="70" y2="90" stroke="#333" stroke-width="3"/>
+  <line x1="78" y1="65" x2="78" y2="95" stroke="#333" stroke-width="1.5"/>
+  <!-- top branch switch x -->
+  <line x1="78" y1="80" x2="100" y2="80" stroke="#333" stroke-width="2"/>
+  <line x1="100" y1="80" x2="100" y2="45" stroke="#333" stroke-width="2"/>
+  <circle cx="130" cy="45" r="4" fill="#333"/>
+  <line x1="130" y1="45" x2="150" y2="30" stroke="#333" stroke-width="2"/>
+  <line x1="150" y1="30" x2="280" y2="30" stroke="#333" stroke-width="2"/>
+  <text x="200" y="24" font-family="sans-serif" font-size="13" fill="#e65100">x</text>
+  <!-- bottom branch switch y -->
+  <line x1="100" y1="80" x2="100" y2="115" stroke="#333" stroke-width="2"/>
+  <circle cx="130" cy="115" r="4" fill="#333"/>
+  <line x1="130" y1="115" x2="150" y2="130" stroke="#333" stroke-width="2"/>
+  <line x1="150" y1="130" x2="280" y2="130" stroke="#333" stroke-width="2"/>
+  <text x="200" y="148" font-family="sans-serif" font-size="13" fill="#e65100">y</text>
+  <!-- join to bulb -->
+  <line x1="280" y1="30" x2="300" y2="30" stroke="#333" stroke-width="2"/>
+  <line x1="300" y1="30" x2="300" y2="80" stroke="#333" stroke-width="2"/>
+  <line x1="280" y1="130" x2="300" y2="130" stroke="#333" stroke-width="2"/>
+  <line x1="300" y1="130" x2="300" y2="80" stroke="#333" stroke-width="2"/>
+  <line x1="300" y1="80" x2="330" y2="80" stroke="#333" stroke-width="2"/>
+  <circle cx="350" cy="80" r="16" fill="none" stroke="#333" stroke-width="2"/>
+  <path d="M340 90 Q350 102 360 90" fill="none" stroke="#333" stroke-width="1.5"/>
+  <line x1="366" y1="80" x2="390" y2="80" stroke="#333" stroke-width="2"/>
+  <!-- return -->
+  <line x1="390" y1="80" x2="390" y2="120" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="80" x2="40" y2="120" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="120" x2="390" y2="120" stroke="#333" stroke-width="2"/>
+  <text x="210" y="158" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#555">La lampada si accende se almeno uno dei due interruttori è chiuso (1)</text>
+</svg>

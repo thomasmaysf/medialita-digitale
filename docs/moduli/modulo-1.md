@@ -173,12 +173,12 @@ Con tutte e tre le onde visibili, fatevi guidare da queste domande:
 !!! abstract "Idea chiave (analogico)"
     Questo è il mondo **analogico**: la linea si muove senza salti, ci sono **infiniti** punti possibili, e ogni copia introduce un po’ di **errore**.
 
-5. Cancellate la lavagna. Un nuovo studente disegna una **onda nuova** in bianco, sempre tra gli stessi limiti: sarà l’onda di riferimento per il resto dell’esercizio.
+5. Cancellate la lavagna. Uno studente disegna una **onda nuova** in bianco, sempre tra gli stessi limiti: sarà l’onda di riferimento per il resto dell’esercizio.
 
 #### Parte 2 — La griglia grossa (~8 min)
 
 1. Fissate con il nastro il vellum a **griglia grossa** sopra l’onda.
-2. Un studente traccia l’onda con il pennarello seguendo una sola regola: *«Puoi muoverti solo lungo le linee della griglia — su, giù, destra o sinistra.»*
+2. Uno studente traccia l’onda con il pennarello seguendo una sola regola: *«Puoi muoverti solo lungo le linee della griglia — su, giù, destra o sinistra.»*
 
 Domande mentre traccia:
 
@@ -199,7 +199,7 @@ Osservazioni di gruppo:
 #### Parte 3 — La griglia fine (~6 min)
 
 1. Sostituite il vellum grosso con quello a **griglia fine**, sempre sulla stessa onda.
-2. Un nuovo studente la traccia allo stesso modo, solo lungo le linee.
+2. Uno studente la traccia allo stesso modo, solo lungo le linee.
 
 Osservazioni di gruppo:
 
@@ -239,20 +239,76 @@ Stampate i [tappetini delle porte logiche](modulo-1/files/tappetini-porte-logich
 
 In coppia o in squadre: un adulto legge una frase (*«Entrambi i genitori dicono sì»* → AND; *«Almeno uno vuole il gelato»* → OR) e i ragazzi impostano i gettoni. Collegate al binario: *«Ogni ingresso è un bit; la porta decide l’uscita come fa il computer, un passo alla volta.»*
 
+### George Boole e gli interruttori
+
+Nel XIX secolo **George Boole**, matematico e insegnante, mostrò che si possono usare simboli simili all’algebra per ragionare con solo due valori: **0** (spento, no, falso) e **1** (acceso, sì, vero). Non dovete memorizzare la sua biografia: l’idea utile è che **ogni interruttore** — o ogni dito alzato nello Step 1 — può stare solo in due posizioni.
+
+Perché non esiste un «2» in questo mondo? In algebra booleana vale **x² = x** (e, equivalente, **x(1 − x) = 0**): se x fosse 0 o 1, l’equazione torna; se x fosse 2 o ½, no. È la stessa regola delle dita: **su o giù**, non «un po’ alzata».
+
+| Operazione | Come la pensiamo | Con interruttori |
+|------------|------------------|------------------|
+| **AND** | Entrambi devono essere 1 | Due interruttori **in serie**: la lampada si accende solo se **x** e **y** sono chiusi → **xy** |
+| **OR** | Basta che uno sia 1 | Due interruttori **in parallelo**: basta chiudere **x** o **y** → **x + y − xy** (la formula evita di contare due volte quando sono entrambi 1) |
+
+![Circuito AND: interruttori in serie](modulo-1/files/circuit-and.svg)
+
+![Circuito OR: interruttori in parallelo](modulo-1/files/circuit-or.svg)
+
+#### Laboratorio con filo e lampada (solo adulti per il montaggio)
+
+**Materiali**
+
+- 1 pila da 1,5 V (AA) *oppure* blocchetto 3 V con portabatterie
+- 2 interruttori a levetta (o pulsanti **normalmente aperti**)
+- 1 lampadina a incandescenza 1,5 V *oppure* 1 LED con **resistenza in serie** (≈330 Ω per 3 V)
+- Filo singolo, nastro isolante, n°2 clip a coccodrillo (opzionali)
+
+**Sicurezza** (come in [Regole generali](../regole-generali.md) e in Parte C)
+
+- **Solo gli adulti** collegano la pila e maneggiano i fili; i ragazzi osservano o azionano gli interruttori sotto supervisione.
+- Usate pila **bassa tensione** (1,5–3 V); **non** collegate mai questo laboratorio alla rete elettrica.
+- Se usate un LED, **sempre** una resistenza in serie; se la lampadina diventa calda, interrompete e controllate il montaggio.
+- Filamenti esposti o pila calda: **staccare subito** la pila.
+
+**Svolgimento (15–20 min)**
+
+1. Montate il circuito **AND** (interruttori in serie) e fate provare tutte e quattro le combinazioni di x e y.
+2. Rimontate in **OR** (parallelo) e ripetete.
+3. Collegate ai [tappetini PDF](modulo-1/files/tappetini-porte-logiche.pdf): *«Quando la lampada è accesa, quale gettone 0/1 mettiamo in uscita?»*
+
+**Tabella di verità — da completare (ragazzi)**
+
+| x | y | AND (xy) lampada | OR (x + y − xy) lampada |
+|---|---|------------------|-------------------------|
+| 0 | 0 | | |
+| 0 | 1 | | |
+| 1 | 0 | | |
+| 1 | 1 | | |
+
+??? note "Tabella di verità — soluzione (facilitatori)"
+    | x | y | AND (xy) | OR (x + y − xy) |
+    |---|---|----------|-----------------|
+    | 0 | 0 | 0 | 0 |
+    | 0 | 1 | 0 | 1 |
+    | 1 | 0 | 0 | 1 |
+    | 1 | 1 | 1 | 1 |
+
+*Idea e circuiti ispirati al post di [@Math_files su X](https://x.com/Math_files) (MathFiles).*
+
 ---
 
 ## Parte C — Dentro i dispositivi {#parte-c-dentro-i-dispositivi}
 
 *Esempio di orario: 12:00–13:20.*
 
-Si attraversano quattro «taglie» di computer, dallo **desktop** al **telefono**, cercando sempre le stesse famiglie di componenti. Più il dispositivo è piccolo e integrato, meno i pezzi si vedono separati — ma la logica resta quella dei **transistor** che agiscono come interruttori (come i bit sulle dita in Parte B).
+Si attraversano quattro «taglie» di computer, dal **desktop** al **telefono**, cercando sempre le stesse famiglie di componenti. Più il dispositivo è piccolo e integrato, meno i pezzi si vedono separati — ma la logica resta quella dei **transistor** che agiscono come interruttori (come i bit sulle dita in Parte B).
 
 ### Materiali
 
 - Un **desktop** vecchio (tower) già **scollegato dalla rete**, con coperchio apribile
 - **Due o tre laptop** (anche non funzionanti), uno eventualmente con base smontabile
 - Una **Raspberry Pi** (scheda nuda o in case trasparente) con scheda microSD
-- Un **smartphone** di scorta *oppure* foto / video di teardown approvati (se non si apre un telefono reale)
+- Uno **smartphone** di scorta *oppure* foto / video di teardown approvati (se non si apre un telefono reale)
 - Cacciaviti a croce e a taglio piccoli, vaschetta per viti, **tappetino antistatico** o superficie asciutta
 - Etichette o lavagnetta per nominare i pezzi
 
