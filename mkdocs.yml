@@ -73,6 +73,13 @@ plugins:
             Iscrizioni: Registration
             Patto digitale: Digital pact
             Risorse: Resources
+            "Modulo 1 — Logica binaria e primi dispositivi": "Module 1 — Binary logic and first devices"
+            "Modulo 2 — Simboli, materiali del telefono e fotografia": "Module 2 — Symbols, phone materials, and photography"
+            "Modulo 3 — Social, linguaggio digitale e musica": "Module 3 — Social media, digital language, and music"
+            "Modulo 4 — Algoritmi, autoregolazione e privacy": "Module 4 — Algorithms, self-regulation, and privacy"
+            "Modulo 5 — Identità, sicurezza online e cianografia": "Module 5 — Identity, online safety, and cyanotype"
+            "Modulo 6 — Intelligenza artificiale, elettromagnetismo e riciclo": "Module 6 — Artificial intelligence, electromagnetism, and recycling"
+            "Modulo 7 — Feedback e consegna del patentino": "Module 7 — Feedback and certificate ceremony"
 
 markdown_extensions:
   - admonition
@@ -91,11 +98,13 @@ nav:
   - Home: index.md
   - Calendario: calendario.md
   - Moduli:
-    - moduli/modulo-1.md
-    - moduli/modulo-2.md
-    - moduli/modulo-3.md
-    - moduli/modulo-4.md
-    - moduli/modulo-5.md
+    - "Modulo 1 — Logica binaria e primi dispositivi": moduli/modulo-1.md
+    - "Modulo 2 — Simboli, materiali del telefono e fotografia": moduli/modulo-2.md
+    - "Modulo 3 — Social, linguaggio digitale e musica": moduli/modulo-3.md
+    - "Modulo 4 — Algoritmi, autoregolazione e privacy": moduli/modulo-4.md
+    - "Modulo 5 — Identità, sicurezza online e cianografia": moduli/modulo-5.md
+    - "Modulo 6 — Intelligenza artificiale, elettromagnetismo e riciclo": moduli/modulo-6.md
+    - "Modulo 7 — Feedback e consegna del patentino": moduli/modulo-7.md
   - Regole generali: regole-generali.md
   - Materiali: materiali.md
   - Iscrizioni: iscrizioni.md

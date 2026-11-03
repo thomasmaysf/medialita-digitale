@@ -1,5 +1,7 @@
 # Modulo 1 — Logica binaria e primi dispositivi
 
+**Data:** sabato 17 ottobre 2026 · **Stato:** concluso
+
 **Tema:** accoglienza, riflessione sul digitale in famiglia, logica binaria (teoria e pratica), riconoscere i «mattoni» comuni dei computer.
 
 **Facilitazione:** un facilitatore o una facilitatrice con almeno un secondo adulto; per laboratorio hardware servono due adulti o più.
