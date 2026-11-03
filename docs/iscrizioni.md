@@ -1,20 +1,8 @@
 # Iscrizioni
 
-## Posti disponibili
+Pagina **locale** per l’edizione Trento. Chi replica il percorso altrove sostituisce questa sezione con le proprie modalità (vedi [Come replicare il percorso](come-replicare.md)).
 
-Il percorso accetta un numero limitato di partecipanti per garantire laboratori e dialogo in gruppo.
-
-| | |
-|---|---|
-| **Posti massimi** | **27** |
-
-## Come iscriversi
-
-Le modalità di iscrizione (scadenze, modulo da compilare, conferma) sono comunicate dal gruppo promotore attraverso i canali ufficiali della scuola.
-
-<!-- TODO: aggiornare con istruzioni operative quando definite dal gruppo -->
-
-## Criteri
-
-- Priorità ai ragazzi delle classi indicate dal programma e alle famiglie che si impegnano sul [Patto digitale](patto-digitale.md).
-- In caso di lista d’attesa, il gruppo promotore comunica le eventuali disponibilità.
+!!! info "La nostra edizione (Trento 2026/27)"
+    - **Posti:** 27 (corso al completo, **lista d’attesa** attiva).
+    - **Iscrizione:** email a [patentinodigitale@scuolasteiner-trento.it](mailto:patentinodigitale@scuolasteiner-trento.it); conferma con **30 €** il giorno del primo modulo.
+    - Priorità alle famiglie che aderiscono al [Patto digitale](patto-digitale.md).

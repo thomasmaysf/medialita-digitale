@@ -1,5 +1,7 @@
 # Module 1 — Binary logic and first devices
 
+**Date:** Saturday 17 October 2026 · **Status:** completed
+
 **Theme:** welcome, reflecting on digital life at home, binary logic (theory and practice), recognizing the common “building blocks” of computers.
 
 **Facilitation:** one facilitator plus at least one other adult; for hardware lab work you need two or more adults.
