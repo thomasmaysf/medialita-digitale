@@ -4,7 +4,6 @@ site_url: https://thomasmaysf.github.io/medialita-digitale/
 
 theme:
   name: material
-  language: it
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -31,8 +30,49 @@ theme:
         name: Passa alla modalità chiara
 
 plugins:
-  - search:
-      lang: it
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: it
+          default: true
+          name: Italiano
+          site_name: Educazione alla Medialità Digitale
+          site_description: Wiki del programma Patentino digitale — Scuola Rudolf Steiner, Trento
+          theme:
+            language: it
+        - locale: en
+          name: English
+          site_name: Digital Media Education
+          site_description: Wiki for the Digital License program — Rudolf Steiner School, Trento
+          theme:
+            language: en
+            palette:
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: teal
+                accent: amber
+                toggle:
+                  icon: material/brightness-7
+                  name: Switch to dark mode
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: teal
+                accent: amber
+                toggle:
+                  icon: material/brightness-4
+                  name: Switch to light mode
+          nav_translations:
+            Home: Home
+            Calendario: Calendar
+            Moduli: Modules
+            Regole generali: General rules
+            Materiali: Materials
+            Iscrizioni: Registration
+            Patto digitale: Digital pact
+            Risorse: Resources
 
 markdown_extensions:
   - admonition

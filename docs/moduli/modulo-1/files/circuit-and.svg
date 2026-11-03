@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-labelledby="title-and">
+  <title id="title-and">Circuito AND: interruttori x e y in serie</title>
+  <rect x="8" y="8" width="404" height="104" rx="8" fill="#f5f5f5" stroke="#ccc"/>
+  <text x="210" y="28" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#1565c0">AND  interruttori in serie (xy)</text>
+  <!-- battery -->
+  <line x1="40" y1="60" x2="70" y2="60" stroke="#333" stroke-width="2"/>
+  <line x1="70" y1="50" x2="70" y2="70" stroke="#333" stroke-width="3"/>
+  <line x1="78" y1="45" x2="78" y2="75" stroke="#333" stroke-width="1.5"/>
+  <text x="54" y="88" font-family="sans-serif" font-size="11" fill="#555">+ </text>
+  <!-- switch x -->
+  <line x1="78" y1="60" x2="110" y2="60" stroke="#333" stroke-width="2"/>
+  <circle cx="130" cy="60" r="4" fill="#333"/>
+  <line x1="130" y1="60" x2="150" y2="45" stroke="#333" stroke-width="2"/>
+  <line x1="150" y1="45" x2="170" y2="45" stroke="#333" stroke-width="2"/>
+  <text x="145" y="38" font-family="sans-serif" font-size="13" fill="#1565c0">x</text>
+  <!-- switch y -->
+  <line x1="170" y1="45" x2="190" y2="45" stroke="#333" stroke-width="2"/>
+  <circle cx="210" cy="45" r="4" fill="#333"/>
+  <line x1="210" y1="45" x2="230" y2="60" stroke="#333" stroke-width="2"/>
+  <line x1="230" y1="60" x2="250" y2="60" stroke="#333" stroke-width="2"/>
+  <text x="205" y="38" font-family="sans-serif" font-size="13" fill="#1565c0">y</text>
+  <!-- bulb -->
+  <line x1="250" y1="60" x2="290" y2="60" stroke="#333" stroke-width="2"/>
+  <circle cx="320" cy="60" r="18" fill="none" stroke="#333" stroke-width="2"/>
+  <path d="M308 72 Q320 88 332 72" fill="none" stroke="#333" stroke-width="1.5"/>
+  <line x1="338" y1="60" x2="380" y2="60" stroke="#333" stroke-width="2"/>
+  <line x1="380" y1="60" x2="380" y2="95" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="60" x2="40" y2="95" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="95" x2="380" y2="95" stroke="#333" stroke-width="2"/>
+  <text x="210" y="108" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#555">La lampada si accende solo se x e y sono chiusi (1)</text>
+</svg>
