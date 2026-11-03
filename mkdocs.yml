@@ -66,6 +66,7 @@ plugins:
                   name: Switch to light mode
           nav_translations:
             Home: Home
+            "Come replicare il percorso": How to run this yourself
             Calendario: Calendar
             Moduli: Modules
             Regole generali: General rules
@@ -96,7 +97,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Calendario: calendario.md
+  - Come replicare il percorso: come-replicare.md
   - Moduli:
     - "Modulo 1 — Logica binaria e primi dispositivi": moduli/modulo-1.md
     - "Modulo 2 — Simboli, materiali del telefono e fotografia": moduli/modulo-2.md
@@ -107,6 +108,7 @@ nav:
     - "Modulo 7 — Feedback e consegna del patentino": moduli/modulo-7.md
   - Regole generali: regole-generali.md
   - Materiali: materiali.md
+  - Calendario: calendario.md
   - Iscrizioni: iscrizioni.md
   - Patto digitale: patto-digitale.md
   - Risorse: risorse.md
@@ -114,4 +116,4 @@ nav:
 extra:
   social: []
 
-copyright: Copyright &copy; Gruppo promotore — Scuola Rudolf Steiner, Trento
+copyright: 'Contenuti didattici: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · Edizione Trento: Gruppo promotore, Scuola Rudolf Steiner'

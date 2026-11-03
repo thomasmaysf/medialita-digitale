@@ -1,19 +1,19 @@
 # Educazione alla Medialità Digitale
 
-Benvenuti nella wiki del programma **Patentino digitale** della Scuola Rudolf Steiner di Trento, rivolto alle famiglie e ai ragazzi delle classi circa dalla quarta alla nona.
+Playbook **open source** per un percorso di **medialità digitale** con ragazzi (circa **4ª–9ª**) e genitori: cerchi di dialogo, laboratori e un patto familiare con attestato modulare (*patentino*).
+
+Potete **copiare, tradurre e adattare** i moduli per la vostra scuola o associazione. I contenuti didattici sono sotto licenza **[Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — per iniziare leggete [Come replicare il percorso](come-replicare.md) e il [Modulo 1](moduli/modulo-1.md).
 
 ## Cos’è il programma
 
-Il percorso offre incontri modulari in cui ragazzi e genitori esplorano insieme il mondo digitale: non solo “come funziona” la tecnologia, ma anche **come ci relazioniamo** con essa in famiglia e a scuola. Gli incontri alternano momenti di dialogo, esperienze pratiche e riflessione guidata, con l’obiettivo di costruire competenze e consapevolezza graduali, adatte all’età.
+Il percorso offre incontri modulari in cui ragazzi e genitori esplorano insieme il mondo digitale: non solo “come funziona” la tecnologia, ma anche **come ci relazioniamo** con essa in famiglia e a scuola.
 
-Al termine del percorso i partecipanti possono ottenere il **patentino digitale**, segno di aver partecipato attivamente al programma e di aver condiviso le regole comuni del gruppo.
+Al termine, i partecipanti possono ottenere un **patentino digitale** (timbro per modulo), segno di partecipazione attiva e di regole condivise.
 
-## Il Patto digitale
+## Edizione locale: Trento
 
-Le famiglie che aderiscono si impegnano a rispettare un **Patto digitale** condiviso: accordi su tempi, spazi e modalità d’uso dei dispositivi, coerenti con i valori della comunità scolastica. Il testo completo è nella pagina [Patto digitale](patto-digitale.md); viene presentato e discusso anche durante i moduli.
+La **Scuola Rudolf Steiner di Trento** usa questa wiki per il calendario 2026/27, iscrizioni e materiali di lavoro del gruppo promotore ([Calendario](calendario.md), [Risorse](risorse.md)). Quelle pagine descrivono **un’implementazione**, non il playbook in sé.
 
-## Chi promuove il progetto
+## Contribuire
 
-Il programma è promosso da un **gruppo di genitori e docenti** della Scuola Rudolf Steiner di Trento, in collaborazione con facilitatori volontari su temi tecnici e pedagogici. Questa wiki raccoglie calendario, materiali e regole operative per chi partecipa.
-
-Per approfondimenti e documenti di lavoro, consultate la pagina [Risorse](risorse.md).
+Miglioramenti e traduzioni sono benvenuti via [GitHub](https://github.com/thomasmaysf/medialita-digitale) (pull request o issue).

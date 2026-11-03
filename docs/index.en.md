@@ -1,19 +1,19 @@
 # Digital Media Education
 
-Welcome to the wiki for the **Digital License** program at the Rudolf Steiner School in Trento, for families and students from around grade 4 through grade 9.
+**Open-source playbook** for a **digital media education** path with young people (roughly **grades 4–9**) and parents: discussion circles, hands-on labs, and a modular family digital pact (*patentino*).
+
+You may **copy, translate, and adapt** the modules for your school or group. Educational content is licensed under **[Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — start with [How to run this yourself](come-replicare.md) and [Module 1](moduli/modulo-1.md).
 
 ## What the program is
 
-The path offers modular sessions where young people and parents explore the digital world together: not only *how* technology works, but also **how we relate** to it at home and at school. Sessions mix conversation, hands-on work, and guided reflection, with the goal of building skills and awareness step by step, suited to each age.
+Modular sessions where young people and parents explore the digital world together: not only *how* technology works, but **how we relate** to it at home and at school.
 
-At the end of the path, participants can earn the **digital license**, a sign that they took part actively and shared the group’s common rules.
+At the end, participants can receive a **digital license** (stamp per module), recognising active participation and shared rules.
 
-## The Digital pact
+## Local edition: Trento
 
-Families who join commit to a shared **Digital pact**: agreements on when, where, and how devices are used, in line with the school community’s values. The full text is on the [Digital pact](patto-digitale.md) page; it is also presented and discussed during the modules.
+The **Rudolf Steiner School in Trento** uses this wiki for the 2026/27 calendar, registration, and organizing group working files ([Calendar](calendario.md), [Resources](risorse.md)). Those pages describe **one deployment**, not the playbook itself.
 
-## Who runs the project
+## Contributing
 
-The program is promoted by a **group of parents and teachers** at the Rudolf Steiner School in Trento, with volunteer facilitators on technical and educational topics. This wiki collects the calendar, materials, and practical rules for participants.
-
-For background and working documents, see [Resources](risorse.md).
+Improvements and translations are welcome via [GitHub](https://github.com/thomasmaysf/medialita-digitale) (pull requests or issues).
