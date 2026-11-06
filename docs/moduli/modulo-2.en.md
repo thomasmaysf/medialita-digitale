@@ -4,8 +4,7 @@
 
 !!! info "Our edition (Trento 2026/27)"
     - **Date:** Saturday 14 November 2026 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
-    - **Collaborators (as in brochure):** **Camilla Lorenzini** (school teacher, artist); **John Mpaliza** (computer engineer, human rights activist); **Paola Meina** (art therapist, trainer); **Postal Police**; **Enrica dal Zio** (actor, director, clown, word artist, therapist); **Marco Montali** (university professor of computer engineering); **Giorgio Capellani** (high school science teacher) — *not everyone leads every module; local reference list.*
-    - Day-to-day sessions are coordinated by the **Digital License group** with guest experts for specific parts.
+    - Module prepared by the **Digital License group**, with **guest experts** for Parts A, B, and C (roles as in the playbook: art history/symbols, geography/materials, photography/technology).
 
 **Why it matters:** Linking art, geography, and technology to objects young people use every day helps them read emoji and photos more critically, ask *where* materials come from and *who* pays the cost of production, and see that every image on a screen is also a grid of numbers.
 
