@@ -3,9 +3,10 @@
 **Tema (brochure):** 1) **Identità e avatar**; 2) **Social e sicurezza** — rischi e trappole (a cura della **Polizia postale**); 3) **Laboratorio** — **Cianotipia**.
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 20 febbraio 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Data:** sabato 20 febbraio 2027
     - **Pubblico:** circa **12–15 anni** con genitori.
     - **Parte B:** incontro con **Polizia postale** (composizione e formati **soggetti a conferma**).
+    - Logistica generale (sede, orari, collaboratori): [Calendario — La nostra edizione](../calendario.md#edizione-trento).
 
 **Perché conta:** Comprendere **avatar**, **profilo** e **trappole** online (grooming, truffe, furto d’identità) insieme ad adulti informati riduce il rischio e aumenta la fiducia nel chiedere aiuto.
 

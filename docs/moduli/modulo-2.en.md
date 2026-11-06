@@ -3,9 +3,12 @@
 **Theme (brochure):** 1) **From cave graffiti to the screen** — ritualization of the image; 2) **The smartphone** — what it is made of, where it ends up; 3) **Lab** — **From film to file, from light to pixel** (full recipe below).
 
 !!! info "Our edition (Trento 2026/27)"
-    - **Date:** Saturday 14 November 2026 · **Morning:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
-    - **Part B:** **10:30–12:00** — led by **John Mpaliza** (from the Democratic Republic of the Congo, computer engineer, human rights activist), bringing **first-hand perspective** on extraction supply chains in his country. In the generic playbook, the same slot can host a **guest witness** with direct experience of mining regions.
-    - Module prepared by the **Digital License group**, with **guest experts** for Parts A, B, and C (roles as in the playbook: art history/symbols, geography/materials, photography/technology).
+    - **Date:** Saturday 14 November 2026
+    - **Part B:** **10:30–12:00** — led by **John Mpaliza**
+
+Edition logistics (venue, times, collaborators): [Calendar — Our edition](../calendario.md#edizione-trento).
+
+In the generic playbook, the same slot can host a **guest witness** with direct experience of mining regions.
 
 **Why it matters:** Linking art, geography, and technology to objects young people use every day helps them read emoji and photos more critically, ask *where* materials come from and *who* pays the cost of production, and see that every image on a screen is also a grid of numbers.
 

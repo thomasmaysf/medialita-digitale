@@ -3,9 +3,10 @@
 **Theme (brochure):** 1) **Identity and avatars**; 2) **Social media and safety** — risks and traps (with **Postal Police**); 3) **Lab** — **Cyanotype**.
 
 !!! info "Our edition (Trento 2026/27)"
-    - **Date:** Saturday 20 February 2027 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Date:** Saturday 20 February 2027
     - **Audience:** about **ages 12–15** with parents.
     - **Part B:** session with **Postal Police** (*Polizia postale*) — **format subject to confirmation**.
+    - General logistics (venue, times, collaborators): [Calendar — Our edition](../calendario.md#edizione-trento).
 
 **Why it matters:** Understanding **avatars**, **profiles**, and **online traps** (grooming, scams, identity theft) with informed adults reduces risk and makes it easier to ask for help.
 

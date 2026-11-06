@@ -3,9 +3,9 @@
 **Tema (brochure):** 1) **Social/1** — storia della comunicazione a distanza (internet, messaggistica, social, privacy); **l’algoritmo**; 2) **Dipendenza digitale**; 3) **Laboratorio** — **Dallo strumento allo streaming**.
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 12 dicembre 2026 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Data:** sabato 12 dicembre 2026
     - **Pubblico (brochure):** circa **12–15 anni** con genitori.
-    - **Collaborazioni** (riferimento brochure): modulo preparato dal gruppo Patentino digitale; rete collaboratori come nel [Modulo 2](modulo-2.md).
+    - Logistica generale e collaboratori: [Calendario — La nostra edizione](../calendario.md#edizione-trento).
 
 **Perché conta:** Comprendere **come** funzionano reti, feed e messaggi (e perché l’**algoritmo** propone alcuni contenuti) è la base per scelte su **tempo**, **privacy** e **dipendenza** consapevole.
 

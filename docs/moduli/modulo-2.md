@@ -3,9 +3,12 @@
 **Tema (brochure):** 1) **Dai graffiti delle caverne allo schermo** — la ritualizzazione dell’immagine; 2) **Lo smartphone** — con che materiali è fatto, dove finiscono; 3) **Laboratorio** — **Dalla pellicola al file, dalla luce al pixel** (come nella ricetta dettagliata sotto).
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 14 novembre 2026 · **Orario mattina:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
-    - **Parte B:** **10:30–12:00** — condotta da **John Mpaliza** (dalla RD del Congo, ingegnere informatico, attivista per i diritti umani), che porta un **racconto e un punto di vista diretti** sulle filiere estrattive del suo paese. Nel playbook generico, la stessa parte può essere affidata a un **testimone ospite** con esperienza diretta di regioni minerarie.
-    - Modulo preparato dal **gruppo Patentino digitale**, con **esperti ospiti** per le Parti A, B e C (ruoli come in playbook: storia dell’arte/simboli, geografia/materiali, fotografia/tecnologia).
+    - **Data:** sabato 14 novembre 2026
+    - **Parte B:** **10:30–12:00** — condotta da **John Mpaliza**
+
+Logistica dell’edizione (sede, orari, collaboratori): [Calendario — La nostra edizione](../calendario.md#edizione-trento).
+
+Nel playbook generico, la stessa parte può essere affidata a un **testimone ospite** con esperienza diretta di regioni minerarie.
 
 
 **Perché conta:** Collegare arte, geografia e tecnologia agli oggetti che i ragazzi usano ogni giorno aiuta a leggere emoji e foto con più consapevolezza, a chiedersi *da dove* arrivano i materiali e *a chi* costa la produzione, e a capire che ogni immagine sullo schermo è anche una griglia di numeri.

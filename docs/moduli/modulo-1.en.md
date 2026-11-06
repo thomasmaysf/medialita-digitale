@@ -4,7 +4,7 @@
 
 !!! info "Our edition (Trento 2026/27)"
     - **Date:** Saturday 17 October 2026 · **Status:** **completed**
-    - **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento — *general program hours 9:00–13:20*
+    - General logistics (venue, times, collaborators): [Calendar — Our edition](../calendario.md#edizione-trento).
 
 **Facilitation:** at least **two adults** for the whole morning; phone opening and battery handling need trained adults.
 

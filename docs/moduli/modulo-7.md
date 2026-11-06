@@ -3,9 +3,10 @@
 **Tema (brochure):** incontro dedicato a **ragazzi e genitori della VIII / Terza media** (come da edizione 2026/27): 1) **Incontro con i genitori / cerchio di chiusura con i ragazzi** — raccolta di considerazioni sul percorso; 2) **Incontro conclusivo con i ragazzi / cerchio conclusivo con i genitori**; 3) **PLENUM e consegna attestati** (*patentino*).
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 15 maggio 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Data:** sabato 15 maggio 2027
     - **Riservato a:** ragazzi e genitori di **VIII / Terza media** (come da brochure).
     - **Attestazione (brochure):** il **patentino** per gli studenti di **VIII** che hanno partecipato a **tutti i moduli** e con **genitori presenti** all’incontro finale; per la **VII** la consegna è prevista **maggio 2028** (si invita a seguire moduli aggiuntivi nell’anno successivo).
+    - Logistica generale (sede, orari, collaboratori): [Calendario — La nostra edizione](../calendario.md#edizione-trento).
 
 **Perché conta:** Chiudere in **parallelo** (adulti e ragazzi) rispetta tempi diversi di elaborazione; il **plenum** e gli **attestati** celebrano il percorso condiviso.
 

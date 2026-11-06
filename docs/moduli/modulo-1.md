@@ -4,7 +4,7 @@
 
 !!! info "La nostra edizione (Trento 2026/27)"
     - **Data:** sabato 17 ottobre 2026 · **Stato:** **concluso**
-    - **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento — *orari generali del programma 9:00–13:20*
+    - Logistica generale (sede, orari, collaboratori): [Calendario — La nostra edizione](../calendario.md#edizione-trento).
 
 **Facilitazione:** almeno **due adulti** per tutta la mattinata; per smontaggio e batteria servono adulti addestrati.
 

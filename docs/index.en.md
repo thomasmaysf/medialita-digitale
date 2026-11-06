@@ -17,7 +17,7 @@ At the end, participants can receive a **digital license** (**one stamp per modu
 
 ## Local edition: Trento
 
-The **Rudolf Steiner School in Trento** uses this wiki for the 2026/27 calendar, registration, and organizing group working files ([Calendar](calendario.md), [Resources](risorse.md)). Those pages describe **one deployment**, not the playbook itself.
+The **Rudolf Steiner School in Trento** uses this wiki for the 2026/27 calendar, registration, and organizing group working files ([Calendar](calendario.md), [Resources](risorse.md)). **Venue, times, collaborators, and coordination** for 2026/27 are in **[Our edition](calendario.md#edizione-trento)** on the [Calendar](calendario.md). Those pages describe **one deployment**, not the playbook itself.
 
 ## Contributing
 
