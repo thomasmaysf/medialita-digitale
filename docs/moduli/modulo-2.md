@@ -4,8 +4,7 @@
 
 !!! info "La nostra edizione (Trento 2026/27)"
     - **Data:** sabato 14 novembre 2026 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
-    - **Collaborazioni** (come da brochure): **Camilla Lorenzini** (docente, artista); **John Mpaliza** (ingegnere informatico, attivista diritti umani); **Paola Meina** (arteterapeuta, formatrice); **Polizia Postale**; **Enrica dal Zio** (attrice, regista, ecc.); **Marco Montali** (professore universitario di ingegneria informatica); **Giorgio Capellani** (insegnante di materie scientifiche alle superiori) — *non tutti i nomi intervengono in ogni modulo; qui sono di riferimento per l’edizione locale.*
-    - Facilitazione quotidiana tipica: modulo preparato dal **gruppo Patentino digitale** con esperti ospiti per le singole parti.
+    - Modulo preparato dal **gruppo Patentino digitale**, con **esperti ospiti** per le Parti A, B e C (ruoli come in playbook: storia dell’arte/simboli, geografia/materiali, fotografia/tecnologia).
 
 
 **Perché conta:** Collegare arte, geografia e tecnologia agli oggetti che i ragazzi usano ogni giorno aiuta a leggere emoji e foto con più consapevolezza, a chiedersi *da dove* arrivano i materiali e *a chi* costa la produzione, e a capire che ogni immagine sullo schermo è anche una griglia di numeri.
