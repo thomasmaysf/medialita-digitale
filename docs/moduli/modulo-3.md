@@ -1,10 +1,13 @@
-# Modulo 3 — Social, linguaggio digitale e musica
+# Modulo 3 — Social, dipendenze, dallo strumento allo streaming
 
-**Data:** sabato 12 dicembre 2026 · **Stato:** in programma
+**Tema (brochure):** 1) **Social/1** — storia della comunicazione a distanza (internet, messaggistica, social, privacy); **l’algoritmo**; 2) **Dipendenza digitale**; 3) **Laboratorio** — **Dallo strumento allo streaming**.
 
-**Tema:** messaggi e comunità online, ciò che resta in rete, il linguaggio digitale e il passaggio dalla musica analogica a quella in streaming.
+!!! info "La nostra edizione (Trento 2026/27)"
+    - **Data:** sabato 12 dicembre 2026 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Pubblico (brochure):** circa **12–15 anni** con genitori.
+    - **Collaborazioni** (riferimento brochure): modulo preparato dal gruppo Patentino digitale; rete collaboratori come nel [Modulo 2](modulo-2.md).
 
-**Perché conta:** Saper riconoscere privacy, permanenza dei contenuti e tono delle parole online protegge le relazioni; capire i formati musicali collega file, diritti e abitudini di ascolto di tutti i giorni.
+**Perché conta:** Comprendere **come** funzionano reti, feed e messaggi (e perché l’**algoritmo** propone alcuni contenuti) è la base per scelte su **tempo**, **privacy** e **dipendenza** consapevole.
 
 ### Orario tipo
 
@@ -17,16 +20,16 @@
 
 ## Parti dell’incontro (programma)
 
-### Parte A — Social media: messaggi, comunità e privacy (9:00–10:20)
+### Parte A — Social/1: da internet agli algoritmi (9:00–10:20)
 
-Con **Stefano**: come funzionano messaggistica e gruppi, l’idea che *internet non dimentica*, e scelte di base sulla privacy.
+Storia essenziale della **comunicazione a distanza**: posta, telefono, internet, messaggistica, **social** — con attenzione a **privacy** (cosa è visibile, cosa resta online) e introduzione a **come un algoritmo seleziona** ciò che vediamo (semplificato, senza formula tecnica).
 
-### Parte B — Parole ostili e linguaggio digitale (10:40–12:00)
+### Parte B — Dipendenza digitale (10:40–12:00)
 
-Con **Enrica** e **Stefano**: come cambia la comunicazione quando passiamo al digitale, e cosa significa affrontare linguaggio ostile o degradante.
+Cerchio e contributi: cosa significa **dipendenza** nel senso di abitudini difficili da interrompere; differenza tra uso **piacevole** e uso che **sottrae** sonno, studio o relazioni; strategie di **autoregolazione** (adattate all’età).
 
-### Parte C — Laboratorio musica, dall’analogico al digitale (12:00–13:20)
+### Parte C — Laboratorio: dallo strumento allo streaming (12:00–13:20)
 
-Con **Alessandro**: vinile, cassetta, CD, MP3 e streaming; confronto pratico e accenni a pirateria e copyright.
+Confronto pratico tra **strumenti** e **servizi** di ascolto: cosa cambia dal suono **fisico** (strumento acustico) a **file** e **streaming**; diritti d’autore e costi invisibili in una forma adatta ai ragazzi.
 
-<!-- TODO: piano di lezione dettagliato (schede, materiali, tempi interni alle parti A–C) -->
+<!-- TODO: piano di lezione dettagliato (schede, materiali, tempi interni, musica di esempio senza violare copyright) -->

@@ -1,27 +1,31 @@
-# Module 1 — Binary logic and first devices
+# Module 1 — Welcome circle, binary, hardware teardown
 
-**Date:** Saturday 17 October 2026 · **Status:** completed
+**Theme (brochure):** welcome circle; binary logic from analog to digital; lab **“Let’s take it apart”**: learn the hardware by opening a phone.
 
-**Theme:** welcome, reflecting on digital life at home, binary logic (theory and practice), recognizing the common “building blocks” of computers.
+!!! info "Our edition (Trento 2026/27)"
+    - **Date:** Saturday 17 October 2026 · **Status:** **completed**
+    - **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento — *general program hours 9:00–13:20*
 
-**Facilitation:** one facilitator plus at least one other adult; for hardware lab work you need two or more adults.
+**Facilitation:** at least **two adults** for the whole morning; phone opening and battery handling need trained adults.
 
-### Sample schedule (adapt as needed)
+### Typical schedule
 
 | Block | Approximate time |
 |-------|------------------|
-| Part A — Circle | 9:00–10:20 |
+| Part A — Welcome circle | 9:00–10:20 |
 | Break | 10:20–10:40 |
-| Part B — Theory (binary) | 10:40–12:00 |
-| Part C — Inside devices | 12:00–13:20 |
+| Part B — Binary logic (analog → digital) | 10:40–12:00 |
+| Part C — Hardware lab | 12:00–13:20 |
+
+**Audience (playbook):** the brochure edition is **12–15** with parents; this module recipe remains adaptable.
 
 ---
 
-## Part A — Circle
+## Part A — Welcome circle
 
-- Welcome, expectations, and questions from the young people.
-- What they already do with devices at home.
-- Introduction of the **question box** for adults (anonymous questions for the facilitators).
+- **Welcome**, **expectations**, and **questions** from young people and adults.
+- **Experience:** what do we already know about **digital technology**? What are we curious or worried about?
+- Optional: **question box** for adults (anonymous questions for the facilitators).
 
 ### Circle questions
 
@@ -299,75 +303,48 @@ Why is there no “2” in this world? In Boolean algebra **x² = x** (and, equi
 
 ---
 
-## Part C — Inside devices {#parte-c-dentro-i-dispositivi}
+## Part C — Let’s take it apart: open a phone to see the hardware {#parte-c-dentro-i-dispositivi}
 
 *Sample schedule: 12:00–13:20.*
 
-Walk through four “sizes” of computer, from **desktop** to **phone**, always looking for the same families of components. The smaller and more integrated the device, the less you see separate pieces — but the logic is still **transistors** acting as switches (like the bits on the fingers in Part B).
+**Intent (brochure):** show **what’s inside** a smartphone — not magic, but boards, battery, chips, **billions of tiny switches** (link to Part B). The teaching goal matches the old “multi-machine tour,” but the **hands-on focus** is the phone.
+
+!!! tip "Playbook variant"
+    If you prefer **not** to open a phone, use a **dummy model** or **approved teardown** photos/video only — or keep an **open desktop** on the table for scale and observe phones from the outside.
 
 ### Materials
 
-- An old **desktop** (tower) already **unplugged from the wall**, with a removable side panel
-- **Two or three laptops** (even non-working ones), one possibly with a removable base
-- A **Raspberry Pi** (bare board or in a clear case) with a microSD card
-- A spare **smartphone** *or* approved teardown photos / video (if you don’t open a real phone)
-- Small Phillips and flat screwdrivers, screw tray, **anti-static mat** or dry surface
-- Labels or small whiteboard to name parts
+- Lab **smartphone**: **non-working**, **wiped**, battery **not swollen** or damaged; common model helps (standard screws)
+- Small Phillips / Torx drivers (phone repair kit), suction cup if needed, **plastic** pry tools, screw trays
+- **Anti-static mat** or dry surface; labels or small whiteboard to name parts
+- Optional: magnifier or USB microscope
+- Optional **quick extension** (5–10 min): **desktop** or **laptop** opened *only* to compare visible RAM/CPU with a soldered SoC
 
 ### Safety (mandatory)
 
-- **Unplug** before opening the desktop; remove the laptop battery if the compartment opens.
-- **Do not open** ATX power supplies, swollen batteries, or smartphones with damaged batteries; **do not touch** capacitors or internal power-supply parts.
-- **Adults only** handle screwdrivers and heavy or sharp components; young people observe from a safe distance.
-- Wear safety glasses if removing metal panels; watch for **sharp edges** in the chassis.
-- No personal data on devices: use **wiped** hardware or equipment dedicated to the lab.
+- **Adults only** open the phone and handle screws, flex cables, and battery; young people **observe** at a safe distance and can **point** or **sketch** what they see.
+- **Do not** force tools; if the case won’t open safely, **stop** and use photos/model only.
+- **Do not** puncture, bend, or heat the battery; if it is **swollen**, **do not** disassemble — use photos only.
+- **Do not** take apart wall chargers or any high-voltage parts.
+- Eye protection if prying rigid plastic that might chip.
+- No personal data on the device.
 
-### Procedure
+### Suggested flow
 
-#### 1. Open desktop (~12 min)
-
-1. Remove the side panel with an adult leading. Have the group observe up close, without touching.
-2. Identify out loud, without rushing: **motherboard**, **CPU** (under the heatsink), **RAM**, **graphics card** (if present), **drive** HDD/SSD, **power supply** (**outside only**, do not open it), **fans**.
-3. Ask: *“If we had to draw this computer as a map, what are the three ‘neighborhoods’: where it thinks, where it remembers for a short time, where it stores long term?”*
-
-#### 2. Laptop (~8 min)
-
-1. Show a **closed, powered-off** laptop, then the compartment (if accessible): battery, drive/SSD, fan, more compact motherboard.
-2. Compare with the desktop: *“What disappeared into a single piece? What got smaller?”*
-3. A second adult can hold the group while the other disassembles **only** what is planned and reversible.
-
-#### 3. Raspberry Pi (~6 min)
-
-1. Show the board in the palm: **SoC** (CPU+GPU together), **microSD** slot (“disk” memory), USB ports, **5 V** power.
-2. Explain: *“Here almost everything is on one chip. It’s still a computer, but designed to cost little and use little power.”*
-3. Optional: connect it to a monitor to show it boots — only if you have time and setup ready.
-
-#### 4. Smartphone (~9 min)
-
-1. Opening it is **not** required: often **photos** of teardowns and a powered-off phone are enough to talk about **screen**, **battery**, **camera**, hidden **antennas**.
-2. If you show an opened device (adults only): highlight that **CPU/GPU/RAM** are in the **SoC**, flash memory is soldered, cooling is almost entirely **passive**.
-3. Key message: *“Do you recognize the ‘computer’ inside? Same ideas as the tower, but packaged like a chocolate bar.”*
-
-### Comparison table (simplified)
-
-| Component / function | Desktop | Laptop | Raspberry Pi | Smartphone |
-|----------------------|---------|--------|--------------|------------|
-| Processing (CPU / GPU) | CPU and graphics card often separate | Integrated CPU/GPU, less space | Single SoC on the chip | Single SoC, not replaceable |
-| Working memory (RAM) | Visible DIMM modules | Soldered or in tight slots | Chip on the board | Integrated in the SoC |
-| Storage | HDD / SSD, visible cables | Compact SSD NVMe or SATA | microSD card | Soldered flash |
-| Power | External PSU (do not open) | Battery + charger | USB / GPIO 5 V | Battery + charging |
-| Cooling | Large fans and heatsinks | Fan / heat pipe | Often passive | Almost all passive |
+1. **Intro (5 min)** — *“In binary we talked ON/OFF; here they’re transistors so small they form chips.”*
+2. **Clear the table, “before” photo (5 min)** — Adult shows where screws go; young people sketch the closed phone.
+3. **Guided opening (25–35 min)** — Typical steps (order varies): **SIM tray**, back screws, separate **back** / **screen** carefully for **flex cables**, **battery** *only if safe for that model* — otherwise **do not force**.
+4. **Parts map (15–20 min)** — Name: main **board**, **SoC** (often CPU/GPU/RAM), **camera** module(s), **antennas**, connectors. Link to bits: *“Where are the billions of switches?”*
+5. **Close + reflection (10 min)** — Surprises? Repair vs recycling (preview Module 2).
 
 ### Group questions
 
-- Which part did you **recognize** right away? Which not?
-- Why is it hard to see the “motherboard” in a phone like on a desktop?
-- Where are the **billions of switches** from binary on the fingers, in your opinion?
-- All these devices need **power** and must **not overheat**: what do you notice that’s different between tower and smartphone?
-- If a computer is just lots of very fast ON/OFF, why do we still talk about **waves** and **analog** (Part B)?
+- What is **soldered** vs **replaceable**? Why does that matter for repair?
+- Where does the **battery** sit in the phone’s energy path?
+- How does this lab connect to **waves** and the **grid** from Part B?
 
 !!! abstract "Key idea"
-    Desktop, laptop, Raspberry Pi, and smartphone are **computers** with the same ingredients: transistors acting as switches (the **bits** you counted with your fingers), organized into **processing**, **memory**, **storage**, **power**, and **heat management**. The more integrated the device, the fewer pieces you see — but the logic is the same.
+    A smartphone is a **miniaturized computer**: **processing**, **memory**, **storage**, **power** in a tight space. The **bits** from Part B are the same idea at microscopic scale — hence “Let’s take it apart” to demystify the object.
 
 ---
 

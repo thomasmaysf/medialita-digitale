@@ -1,27 +1,31 @@
-# Modulo 1 — Logica binaria e primi dispositivi
+# Modulo 1 — Accoglienza, binario, smontaggio hardware
 
-**Data:** sabato 17 ottobre 2026 · **Stato:** concluso
+**Tema (brochure):** cerchio di accoglienza; logica binaria dall’analogico al digitale; laboratorio **«Facciamolo a pezzi»**: conoscere l’hardware smontando un telefono.
 
-**Tema:** accoglienza, riflessione sul digitale in famiglia, logica binaria (teoria e pratica), riconoscere i «mattoni» comuni dei computer.
+!!! info "La nostra edizione (Trento 2026/27)"
+    - **Data:** sabato 17 ottobre 2026 · **Stato:** **concluso**
+    - **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento — *orari generali del programma 9:00–13:20*
 
-**Facilitazione:** un facilitatore o una facilitatrice con almeno un secondo adulto; per laboratorio hardware servono due adulti o più.
+**Facilitazione:** almeno **due adulti** per tutta la mattinata; per smontaggio e batteria servono adulti addestrati.
 
-### Esempio di orario (da adattare)
+### Orario tipo
 
 | Blocco | Orario indicativo |
 |--------|-------------------|
-| Parte A — Cerchio | 9:00–10:20 |
+| Parte A — Cerchio di accoglienza | 9:00–10:20 |
 | Pausa | 10:20–10:40 |
-| Parte B — Teoria (binario) | 10:40–12:00 |
-| Parte C — Dentro i dispositivi | 12:00–13:20 |
+| Parte B — Logica binaria (analogico → digitale) | 10:40–12:00 |
+| Parte C — Lab hardware | 12:00–13:20 |
+
+**Pubblico (playbook):** l’edizione pubblicata su brochure è per **12–15 anni** con genitori; il Modulo 1 come ricetta resta adattabile ad altre età.
 
 ---
 
-## Parte A — Cerchio
+## Parte A — Cerchio di accoglienza
 
-- Accoglienza, aspettative e domande dei ragazzi.
-- Cosa fanno già con i dispositivi a casa.
-- Presentazione della **scatola delle domande** per gli adulti (domande anonime per i facilitatori).
+- **Accoglienza**, aspettative e **domande** di ragazzi e adulti.
+- **Esperienze:** cosa sappiamo già delle **tecnologie digitali**? Cosa ci incuriosisce o ci preoccupa?
+- Opzionale: **scatola delle domande** per gli adulti (domande anonime per i facilitatori).
 
 ### Domande per il cerchio
 
@@ -299,75 +303,48 @@ Perché non esiste un «2» in questo mondo? In algebra booleana vale **x² = x*
 
 ---
 
-## Parte C — Dentro i dispositivi {#parte-c-dentro-i-dispositivi}
+## Parte C — Facciamolo a pezzi: smontare un telefono per conoscere l’hardware {#parte-c-dentro-i-dispositivi}
 
-*Esempio di orario: 12:00–13:20.*
+*Orario indicativo: 12:00–13:20.*
 
-Si attraversano quattro «taglie» di computer, dal **desktop** al **telefono**, cercando sempre le stesse famiglie di componenti. Più il dispositivo è piccolo e integrato, meno i pezzi si vedono separati — ma la logica resta quella dei **transistor** che agiscono come interruttori (come i bit sulle dita in Parte B).
+**Intent (brochure):** far vedere **cosa c’è dentro** uno smartphone: non magia, ma schede, batteria, chip, **miliardi di interruttori minuscoli** (collegamento alla Parte B). Il messaggio è lo stesso del vecchio «tour» su più macchine, ma il **focus operativo** è il telefono.
+
+!!! tip "Variante playbook"
+    Se preferite **non** aprire un telefono, usate solo **modelli** o **foto/video** di teardown autorizzati — oppure tenete un **desktop** a coperchio aperto come mostra-e-tocca e limitate il telefono all’osservazione esterna.
 
 ### Materiali
 
-- Un **desktop** vecchio (tower) già **scollegato dalla rete**, con coperchio apribile
-- **Due o tre laptop** (anche non funzionanti), uno eventualmente con base smontabile
-- Una **Raspberry Pi** (scheda nuda o in case trasparente) con scheda microSD
-- Uno **smartphone** di scorta *oppure* foto / video di teardown approvati (se non si apre un telefono reale)
-- Cacciaviti a croce e a taglio piccoli, vaschetta per viti, **tappetino antistatico** o superficie asciutta
-- Etichette o lavagnetta per nominare i pezzi
+- **Smartphone** da laboratorio: **non funzionante**, **wipato**, batteria **non gonfia** e non danneggiata; ideale modello comune (viti standard)
+- Cacciaviti a croce / Torx adatti (kit smartphone), ventosa per display (se serve), **plettro** in plastica, vaschette per viti
+- **Tappetino antistatico** o piano asciutto; etichette o lavagnetta per nominare i pezzi
+- Opzionale: lente d’ingrandimento o microscopio USB
+- Opzionale per **estensione rapida** (5–10 min): un **desktop** o **laptop** già aperto *solo* per confrontare scale (CPU/RAM visibili vs SoC saldato)
 
 ### Sicurezza (obbligatoria)
 
-- **Staccate la spina** prima di aprire il desktop; togliete la batteria del laptop se si apre il vano.
-- **Non aprite** alimentatori ATX, batterie gonfie o smartphone con batteria danneggiata; **non toccate** condensatori o parti interne dell’alimentatore.
-- **Solo gli adulti** maneggiano cacciaviti e componenti pesanti o taglienti; i ragazzi osservano a distanza di sicurezza.
-- Indossate occhiali se rimuovete pannelli metallici; attenzione a **bordi affilati** nel chassis.
-- Nessun dato personale sui dispositivi: usate hardware **wipato** o dedicato al laboratorio.
+- **Solo adulti** aprono il telefono e maneggiano viti, connettori e batteria; i ragazzi **osservano** a distanza sicurezza e possono **indicare** o **disegnare** ciò che vedono.
+- **Non** forzare strumenti; se il case non si apre in sicurezza, **fermatevi** e passate a foto/modello.
+- **Non** perforare, piegare né forare la batteria; se la batteria è **gonfia**, **non** smontare: usate solo foto.
+- **Non** smontare alimentatori da parete o parti ad alta tensione.
+- Occhiali se si usano utensili su plastica rigida che può scheggiare.
+- Nessun dato personale sul dispositivo.
 
-### Svolgimento
+### Svolgimento suggerito
 
-#### 1. Desktop aperto (~12 min)
-
-1. Rimuovete il pannello laterale con un adulto che guida. Fate osservare il gruppo da vicino, senza toccare.
-2. Individuate a voce alta, senza fretta: **scheda madre**, **CPU** (sotto il dissipatore), **RAM**, **scheda video** (se presente), **disco** HDD/SSD, **alimentatore** (solo **esterno**, senza aprirlo), **ventole**.
-3. Chiedete: *«Se dovessimo disegnare questo computer come una mappa, quali sono i tre «quartieri»: dove si pensa, dove si ricorda per poco, dove si archivia?»*
-
-#### 2. Laptop (~8 min)
-
-1. Mostrate un portatile **chiuso e spento**, poi il vano (se accessibile): batteria, disco/SSD, ventola, scheda madre più compatta.
-2. Confrontate con il desktop: *«Cosa è sparito in un unico pezzo? Cosa è diventato più piccolo?»*
-3. Un secondo adulto può tenere il gruppo mentre l’altro smonta **solo** ciò che è previsto e reversibile.
-
-#### 3. Raspberry Pi (~6 min)
-
-1. Mostrate la scheda sul palmo: **SoC** (CPU+GPU insieme), slot **microSD** (memoria «disco»), porte USB, alimentazione **5 V**.
-2. Spiegate: *«Qui quasi tutto è su un unico chip. È ancora un computer, ma pensato per costare poco e consumare poco.»*
-3. Opzionale: collegatela a un monitor per mostrare che si accende — solo se avete tempo e setup pronto.
-
-#### 4. Smartphone (~9 min)
-
-1. **Non** è obbligatorio aprirlo: spesso bastano **foto** di teardown e un telefono spento per parlare di **schermo**, **batteria**, **fotocamera**, **antenne** nascoste.
-2. Se mostrate un device aperto (solo adulti): evidenziate che **CPU/GPU/RAM** sono nel **SoC**, la memoria flash è saldata, il raffreddamento è quasi tutto **passivo**.
-3. Messaggio chiave: *«Riconoscete il «computer» dentro? Stesse idee del tower, ma impacchettate come in una barretta di cioccolato.»*
-
-### Tabella comparativa (semplificata)
-
-| Componente / funzione | Desktop | Laptop | Raspberry Pi | Smartphone |
-|----------------------|---------|--------|--------------|------------|
-| Elaborazione (CPU / GPU) | CPU e scheda video spesso separate | CPU/GPU integrati, meno spazio | SoC unico sul chip | SoC unico, non sostituibile |
-| Memoria di lavoro (RAM) | Moduli DIMM visibili | Saldata o su slot stretti | Chip sulla scheda | Integrata nel SoC |
-| Archiviazione | HDD / SSD, cavi visibili | SSD NVMe o SATA compatto | Scheda microSD | Flash saldata |
-| Alimentazione | Alimentatore esterno (non aprire) | Batteria + caricabatterie | USB / GPIO 5 V | Batteria + ricarica |
-| Raffreddamento | Ventole e dissipatori grandi | Ventola / heat pipe | Spesso passivo | Quasi tutto passivo |
+1. **Introduzione (5 min)** — Richiamo: *«Nel binario abbiamo parlato di ON/OFF; qui sono transistor così piccoli che formano chip.»*
+2. **Sgomberare piano e foto «prima» (5 min)** — Una persona adulta mostra dove andranno le viti; i ragazzi schizzano la forma del telefono chiuso.
+3. **Apertura guidata (25–35 min)** — Passi tipici (ordine dipende dal modello): rimozione **sim tray**, viti posteriori, separazione **cover** / **schermo** con cura per i **flex**, estrazione **batteria** *solo se prevista e sicura* altrimenti **non forzare**.
+4. **Mappa componenti (15–20 min)** — A voce alta, senza fretta: **scheda madre** / flex, **SoC** (CPU/GPU/RAM spesso integrati), modulo **fotocamera**, **antenne**, connettori. Collegate ai **bit**: *«Dove sono i miliardi di interruttori?»*
+5. **Chiusura e riflessione (10 min)** — Cosa vi ha sorpreso? Riparazione vs ricicolo (anticipo al Modulo 2).
 
 ### Domande per il gruppo
 
-- Quale pezzo avete **riconosciuto** subito? Quale no?
-- Perché nel telefono è difficile vedere la «scheda madre» come nel desktop?
-- Dove sono, secondo voi, i **miliardi di interruttori** di cui parlava il binario sulle dita?
-- Tutti questi apparecchi hanno bisogno di **energia** e di **non surriscaldarsi**: cosa notate di diverso tra tower e smartphone?
-- Se un computer è solo tanti ON/OFF velocissimi, perché ci serve ancora parlare di **onde** e **analogico** (Parte B)?
+- Cosa è **saldato** e cosa è **rimovibile**? Perché conta per la riparazione?
+- Dove va la **batteria** nel flusso energia del telefono?
+- Come si collega questo laboratorio alle **onde** e alla **griglia** della Parte B?
 
 !!! abstract "Idea chiave"
-    Desktop, laptop, Raspberry Pi e smartphone sono **computer** con gli stessi ingredienti: transistor che fanno da interruttori (i **bit** che avete contato con le dita), organizzati in **elaborazione**, **memoria**, **archiviazione**, **alimentazione** e **gestione del calore**. Più il dispositivo è integrato, meno vedete i pezzi — ma la logica è la stessa.
+    Uno smartphone è un **computer** miniaturizzato: **elaborazione**, **memoria**, **archiviazione**, **alimentazione** in spazio stretto. I **bit** della Parte B sono la stessa idea, ma su scala microscopica — da qui «Facciamolo a pezzi» per togliere la patina di mistero.
 
 ---
 

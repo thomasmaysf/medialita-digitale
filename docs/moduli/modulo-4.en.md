@@ -1,13 +1,16 @@
-# Module 4 — Algorithms, self-regulation, and privacy
+# Module 4 — Identity, social safety, cyanotype
 
-**Date:** Saturday 20 February 2027 · **Status:** scheduled
+**Theme (brochure):** 1) **Identity and avatars**; 2) **Social media and safety** — risks and traps (with **Postal Police**); 3) **Lab** — **Cyanotype**.
 
-**Theme:** how online content is selected and manipulated, dependency and self-regulation, and recent privacy history.
+!!! info "Our edition (Trento 2026/27)"
+    - **Date:** Saturday 20 February 2027 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Audience:** about **ages 12–15** with parents.
+    - **Part B:** session with **Postal Police** (*Polizia postale*) — **format subject to confirmation**.
 
-**Why it matters:** Wikipedia, feeds, and deep fakes shape what we treat as true; spotting digital *hooks* and protecting personal data are civic skills, not only technical ones.
+**Why it matters:** Understanding **avatars**, **profiles**, and **online traps** (grooming, scams, identity theft) with informed adults reduces risk and makes it easier to ask for help.
 
 !!! note "January"
-    There are **no sessions in January** — a planned break between module 3 (December) and this module.
+    **No session in January** — planned break between module 3 and this one.
 
 ### Typical schedule
 
@@ -20,16 +23,16 @@
 
 ## Session outline (program)
 
-### Part A — Algorithms and Wikipedia (9:00–10:20)
+### Part A — Identity and avatars (9:00–10:20)
 
-With **Stefano**: how information is selected and sometimes manipulated online, digital hooks, judging sources, and an introduction to deep fakes.
+How identity forms **online** too; activity with **photo** or drawing and creating/telling an **avatar** (metaphor for “how we show ourselves to others”).
 
-### Part B — Addictions and self-regulation (10:40–12:00)
+### Part B — Social media and safety: risks and traps (10:40–12:00)
 
-Speaker **to be confirmed**: reflection on hard-to-stop digital habits and age-appropriate self-regulation strategies.
+With facilitators trained in **online safety** (Trento edition: **Postal Police**): cyberbullying, grooming, scams, identity theft, age limits — **non-alarmist** tone and space for parent–child questions.
 
-### Part C — Privacy lab: history since the mid-1990s (12:00–13:20)
+### Part C — Lab: cyanotype (12:00–13:20)
 
-With **Thomas**: how personal privacy and data have changed with the web and social media, with practical awareness exercises.
+**Cyanotype** printing: light and chemistry; metaphorical link to **imprints** and lasting images — connectable to **traces** left online.
 
-<!-- TODO: detailed lesson plan (worksheets, materials, timing within parts A–C) -->
+<!-- TODO: detailed plan (cyanotype materials, chemical safety, photo consent) -->

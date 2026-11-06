@@ -1,11 +1,11 @@
-# Module 2 — Symbols, phone materials, and photography
+# Module 2 — Caves to screen, smartphone, film→pixel
 
-**Theme:** how symbols and images carry emotion over time; what a smartphone is made of and where those materials come from; how photography moved from film to digital files — and why **pixels** and **colour** connect to the binary ideas in [Module 1](modulo-1.en.md).
+**Theme (brochure):** 1) **From cave graffiti to the screen** — ritualization of the image; 2) **The smartphone** — what it is made of, where it ends up; 3) **Lab** — **From film to file, from light to pixel** (full recipe below).
 
 !!! info "Our edition (Trento 2026/27)"
-    - **Date:** Saturday 14 November 2026
-    - **Local facilitators:** Camilla (Part A), Consuelo / Elisa / Mpaliza (Part B), Thomas / Stefano (Part C); optional **Part D** evening with Consuelo / Elisa / Mpaliza
-    - **Venue:** TBD
+    - **Date:** Saturday 14 November 2026 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Collaborators (as in brochure):** **Camilla Lorenzini** (school teacher, artist); **John Mpaliza** (computer engineer, human rights activist); **Paola Meina** (art therapist, trainer); **Postal Police**; **Enrica dal Zio** (actor, director, clown, word artist, therapist); **Marco Montali** (university professor of computer engineering); **Giorgio Capellani** (high school science teacher) — *not everyone leads every module; local reference list.*
+    - Day-to-day sessions are coordinated by the **Digital License group** with guest experts for specific parts.
 
 **Why it matters:** Linking art, geography, and technology to objects young people use every day helps them read emoji and photos more critically, ask *where* materials come from and *who* pays the cost of production, and see that every image on a screen is also a grid of numbers.
 
@@ -26,7 +26,7 @@ By the end of the module, young people and parents should be able to:
 
 ## Audience
 
-- **Grades:** roughly 4–9 (ages 9–15), with **parents or caregivers** present for the full morning.
+- **Age (2026/27 brochure):** about **12–15**, with **parents or caregivers** present for the full morning.
 - **Useful background:** [Module 1](modulo-1.en.md) (binary, wave/grid, “inside devices”) — not required, but it helps Part C references.
 - **Format:** mix of listening, drawing, discussion, and light lab work; no technical prerequisites.
 
@@ -52,11 +52,11 @@ By the end of the module, young people and parents should be able to:
 
 | Block | Approximate time | Duration |
 |-------|------------------|----------|
-| **Part A** — From symbols to emoji | 9:00–10:20 | ~80 min |
+| **Part A** — From cave graffiti to the screen | 9:00–10:20 | ~80 min |
 | **Break** | 10:20–10:40 | 20 min |
-| **Part B** — What’s inside a smartphone | 10:40–12:00 | ~80 min |
-| **Part C** — Photography: from film to file | 12:00–13:20 | ~80 min |
-| **Part D** (optional) — Parents’ evening | evening, TBD | ~90 min |
+| **Part B** — Smartphone materials and where they go | 10:40–12:00 | ~80 min |
+| **Part C** — From film to file, light to pixel | 12:00–13:20 | ~80 min |
+| **Part D** (optional, *not* on brochure schedule) | optional evening | ~90 min |
 
 ---
 
@@ -113,13 +113,13 @@ By the end of the module, young people and parents should be able to:
 
 ---
 
-## Part A — From symbols to emoji {#part-a-from-symbols-to-emoji}
+## Part A — From cave graffiti to the screen: ritualizing the image {#part-a-from-symbols-to-emoji}
 
-*Approximate time: 9:00–10:20 (~80 min).*
+*Brochure: “From cave graffiti to the screen: ritualizing the image” — 9:00–10:20 (~80 min).*
 
 ### Intent
 
-Show that communicating **without words** is as old as humanity: marks on rock, symbolic writing, religious and commercial icons, up to **emoji** — same need (say something fast), different media and rules.
+Show that communicating **without words** is as old as humanity: marks on rock, symbolic writing, religious and commercial icons, up to **emoji** — same need (say something fast), different media and rules. The path **from caves to the screen** shows how images have always been **social and ritual**, not mere decoration.
 
 ### Suggested internal timing
 
@@ -169,8 +169,8 @@ Show that communicating **without words** is as old as humanity: marks on rock, 
 
 | Group | Adaptation |
 |-------|------------|
-| **Younger (grades 4–5)** | Only **3 symbols**; concrete ideas (eat, sleep, play). |
-| **Older (grades 7–9)** | Add a **combined** symbol (two symbols = phrase), like hieroglyphs. |
+| **Younger (12–13)** | Only **3 symbols**; concrete ideas (eat, sleep, play). |
+| **Older (14–15)** | Add a **combined** symbol (two symbols = phrase), like hieroglyphs. |
 | **Multilingual families** | Allow labels in **two languages** under the symbol — discuss **Unicode** as a “world alphabet” for emoji. |
 
 ### Step 3 — Emoji: cultures and generations (~20 min)
@@ -206,13 +206,13 @@ Recap: **symbol + context + reader**. Tease Part B: *“The phone also has **sym
 
 ---
 
-## Part B — What’s inside a smartphone {#part-b-whats-inside-a-smartphone}
+## Part B — The smartphone: materials and where they go {#part-b-whats-inside-a-smartphone}
 
-*Approximate time: 10:40–12:00 (~80 min).*
+*Brochure: “The smartphone: do you know what it’s made of? Where does it end up?” — 10:40–12:00 (~80 min).*
 
 ### Intent
 
-Help participants see a smartphone not only as screen and apps, but as an **assembly of materials** with **geographies** and **consequences** — environment, health, labour — and how **lifespan**, **repair**, and **recycling** choices matter.
+Help participants see a smartphone not only as screen and apps, but as an **assembly of materials** with **geographies** and **consequences** — environment, health, labour — and how **lifespan**, **repair**, and **recycling** choices matter (*where they end up* = landfills, recycling, second life).
 
 ### Suggested internal timing
 
@@ -303,9 +303,9 @@ Help participants see a smartphone not only as screen and apps, but as an **asse
 
 ---
 
-## Part C — Photography: from film to file {#part-c-photography-from-film-to-file}
+## Part C — From film to file, from light to pixel {#part-c-photography-from-film-to-file}
 
-*Approximate time: 12:00–13:20 (~80 min).*
+*Brochure: “Lab: From film to file, from light to pixel” — 12:00–13:20 (~80 min).*
 
 ### Intent
 
@@ -395,6 +395,9 @@ Recap **three threads**: symbols, materials, light→numbers. **Badge stamp** if
 ---
 
 ## Part D (optional) — Parents’ evening {#part-d-parents-evening}
+
+!!! note "Not on the 2026/27 brochure calendar"
+    This optional **parents’ evening** is a playbook add-on for parents only; it is **not** on the official printed program.
 
 *Time and venue: TBD (~90 min).*
 

@@ -1,10 +1,13 @@
-# Module 3 — Social media, digital language, and music
+# Module 3 — Social, dependencies, instrument→streaming
 
-**Date:** Saturday 12 December 2026 · **Status:** scheduled
+**Theme (brochure):** 1) **Social/1** — history of distance communication (internet, messaging, social, privacy); the **algorithm**; 2) **Digital dependency**; 3) **Lab** — **From the instrument to streaming**.
 
-**Theme:** messaging and online communities, what stays on the internet, digital language, and the move from analog to streaming music.
+!!! info "Our edition (Trento 2026/27)"
+    - **Date:** Saturday 12 December 2026 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Audience (brochure):** about **ages 12–15** with parents.
+    - **Collaborators:** Digital License group and network as in [Module 2](modulo-2.en.md).
 
-**Why it matters:** Recognising privacy, permanence, and tone online protects relationships; understanding music formats connects files, rights, and everyday listening habits.
+**Why it matters:** Understanding **how** networks, feeds, and messages work (and **why algorithms** surface some content) underpins choices about **time**, **privacy**, and **dependence** with awareness.
 
 ### Typical schedule
 
@@ -17,16 +20,16 @@
 
 ## Session outline (program)
 
-### Part A — Social media: messaging, communities, and privacy (9:00–10:20)
+### Part A — Social/1: from the internet to algorithms (9:00–10:20)
 
-With **Stefano**: how messaging and groups work, the idea that *the internet doesn’t forget*, and basic privacy choices.
+Short history of **distance communication**: post, telephone, internet, messaging, **social** — with attention to **privacy** (what is visible, what stays online) and a simple intro to **how an algorithm selects** what we see (no heavy formulas).
 
-### Part B — Hostile words and digital language (10:40–12:00)
+### Part B — Digital dependency (10:40–12:00)
 
-With **Enrica** and **Stefano**: how communication changes when we go digital, and what it means to face hostile or degrading language.
+Circle and input: what **dependence** means as habits that are hard to stop; **enjoyable** use vs use that **takes** sleep, study, or relationships; **self-regulation** strategies suited to the age group.
 
-### Part C — Music lab, from analog to digital (12:00–13:20)
+### Part C — Lab: from instrument to streaming (12:00–13:20)
 
-With **Alessandro**: vinyl, cassette, CD, MP3, and streaming; hands-on comparison and an introduction to piracy and copyright.
+Practical comparison between **acoustic instruments** and **files / streaming**; invisible costs and **copyright** in age-appropriate language.
 
-<!-- TODO: detailed lesson plan (worksheets, materials, timing within parts A–C) -->
+<!-- TODO: detailed lesson plan (worksheets, timing, example tracks without copyright issues) -->

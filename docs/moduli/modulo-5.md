@@ -1,10 +1,12 @@
-# Modulo 5 — Identità, sicurezza online e cianografia
+# Modulo 5 — Social/2, parole ostili, linguaggio del corpo
 
-**Data:** sabato 20 marzo 2027 · **Stato:** in programma
+**Tema (brochure):** 1) **Social/2** — *la rete è un punto di incontro?*; 2) **Parole ostili** — comunicazione col linguaggio digitale, **regole per il buon uso**; 3) **Laboratorio** — **Il linguaggio del corpo**.
 
-**Tema:** come si forma l’identità (anche online), rischi concreti sui social, e un laboratorio creativo con la cianografia.
+!!! info "La nostra edizione (Trento 2026/27)"
+    - **Data:** sabato 20 marzo 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Pubblico:** circa **12–15 anni** con genitori.
 
-**Perché conta:** Avatar, foto e profili costruiscono chi siamo agli altri; cyberbullismo, grooming e furto d’identità richiedono regole chiare e adulti informati.
+**Perché conta:** Chiedersi se la rete è **incontro** o **scontro** prepara a **parole ostili** e a regole chiare; il **corpo** ricorda che la comunicazione non è solo testo sullo schermo.
 
 ### Orario tipo
 
@@ -17,16 +19,16 @@
 
 ## Parti dell’incontro (programma)
 
-### Parte A — Identità: formazione, foto e avatar (9:00–10:20)
+### Parte A — Social/2: la rete è un punto di incontro? (9:00–10:20)
 
-Con **Sara N.**: come nasce l’identità, attività con la fotografia e racconto di un avatar.
+Discussione guidata: comunità online vs isolamento, gruppi, eco-chamber — con esempi concreti e domande per genitori e ragazzi.
 
-### Parte B — Social media e sicurezza (10:40–12:00)
+### Parte B — Parole ostili e linguaggio digitale (10:40–12:00)
 
-Con **Polizia postale** e **Stefano** (composizione **soggetta a variazioni**): cyberbullismo, grooming, furto d’identità, limiti d’età sulle piattaforme.
+Come il **tono** cambia online; **parole ostili** e degradazione del dialogo; **regole per il buon uso** (account condivisi in famiglia, tempi, segnalazione, uscite dai gruppi).
 
-### Parte C — Laboratorio cianografia (12:00–13:20)
+### Parte C — Laboratorio: il linguaggio del corpo (12:00–13:20)
 
-Con **Sara N.**: stampa fotografica alternativa con il processo alla cianografia.
+Esercizi di consapevolezza **non verbale**: postura, sguardo, distanza, respiro — utili anche quando si legge un messaggio “freddo” o ambiguo dietro uno schermo.
 
-<!-- TODO: piano di lezione dettagliato (schede, materiali, tempi interni alle parti A–C) -->
+<!-- TODO: piano dettagliato (esercizi, spazio, facilitazione teatrale o educazione motoria) -->

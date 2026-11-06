@@ -34,7 +34,7 @@ You do not need a full-time teacher: prepared volunteers who have read the modul
 
 ## Adapting modules
 
-1. **Mixed ages (roughly grades 4–9)** — each module suggests adaptations for younger and older children; shorten tables or pair one adult with one child.
+1. **Age** — the 2026/27 Trento edition targets about **ages 12–15** with parents; for younger or older groups, shorten activities or always pair one adult with one young person.
 2. **Time** — cut an optional activity rather than rushing Part C; the lab is what young people remember.
 3. **Language and culture** — translate the `.en.md` files or write local variants; swap examples (emoji, maps) for your context.
 4. **Local edition** — keep dates, names, and registration on a short page or in an “Our edition” box, not in the core recipe.
