@@ -3,9 +3,10 @@
 **Theme (brochure):** session for **grade 8 / lower-secondary year 3** students and parents (2026/27 edition): 1) **Parents’ session / young people’s closing circle** — gathering reflections on the path; 2) **Closing session with young people / parents’ closing circle**; 3) **Plenary and awarding certificates** (*patentino*).
 
 !!! info "Our edition (Trento 2026/27)"
-    - **Date:** Saturday 15 May 2027 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Date:** Saturday 15 May 2027
     - **For:** students and parents in **grade 8 / Terza media** (as in brochure).
     - **Certification (brochure):** the **digital license** for **grade 8** students who attended **all modules** with **parents at the final meeting**; for **grade 7** the award is planned **May 2028** (additional modules in the following year encouraged).
+    - General logistics (venue, times, collaborators): [Calendar — Our edition](../calendario.md#edizione-trento).
 
 **Why it matters:** Closing **in parallel** (adults and young people) respects different processing times; the **plenary** and **certificates** celebrate the shared path.
 

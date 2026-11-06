@@ -3,8 +3,9 @@
 **Tema (brochure):** 1) **Social/2** — *la rete è un punto di incontro?*; 2) **Parole ostili** — comunicazione col linguaggio digitale, **regole per il buon uso**; 3) **Laboratorio** — **Il linguaggio del corpo**.
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 20 marzo 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Data:** sabato 20 marzo 2027
     - **Pubblico:** circa **12–15 anni** con genitori.
+    - Logistica generale (sede, orari, collaboratori): [Calendario — La nostra edizione](../calendario.md#edizione-trento).
 
 **Perché conta:** Chiedersi se la rete è **incontro** o **scontro** prepara a **parole ostili** e a regole chiare; il **corpo** ricorda che la comunicazione non è solo testo sullo schermo.
 
