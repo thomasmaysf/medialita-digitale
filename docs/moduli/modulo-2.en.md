@@ -3,7 +3,8 @@
 **Theme (brochure):** 1) **From cave graffiti to the screen** — ritualization of the image; 2) **The smartphone** — what it is made of, where it ends up; 3) **Lab** — **From film to file, from light to pixel** (full recipe below).
 
 !!! info "Our edition (Trento 2026/27)"
-    - **Date:** Saturday 14 November 2026 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Date:** Saturday 14 November 2026 · **Morning:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Part B:** **10:30–12:00** — led by **John Mpaliza** (from the Democratic Republic of the Congo, computer engineer, human rights activist), bringing **first-hand perspective** on extraction supply chains in his country. In the generic playbook, the same slot can host a **guest witness** with direct experience of mining regions.
     - Module prepared by the **Digital License group**, with **guest experts** for Parts A, B, and C (roles as in the playbook: art history/symbols, geography/materials, photography/technology).
 
 **Why it matters:** Linking art, geography, and technology to objects young people use every day helps them read emoji and photos more critically, ask *where* materials come from and *who* pays the cost of production, and see that every image on a screen is also a grid of numbers.
@@ -52,8 +53,8 @@ By the end of the module, young people and parents should be able to:
 | Block | Approximate time | Duration |
 |-------|------------------|----------|
 | **Part A** — From cave graffiti to the screen | 9:00–10:20 | ~80 min |
-| **Break** | 10:20–10:40 | 20 min |
-| **Part B** — Smartphone materials and where they go | 10:40–12:00 | ~80 min |
+| **Break** | 10:20–10:30 | 10 min |
+| **Part B** — Smartphone materials and where they go | 10:30–12:00 | ~90 min |
 | **Part C** — From film to file, light to pixel | 12:00–13:20 | ~80 min |
 | **Part D** (optional, *not* on brochure schedule) | optional evening | ~90 min |
 
@@ -207,7 +208,7 @@ Recap: **symbol + context + reader**. Tease Part B: *“The phone also has **sym
 
 ## Part B — The smartphone: materials and where they go {#part-b-whats-inside-a-smartphone}
 
-*Brochure: “The smartphone: do you know what it’s made of? Where does it end up?” — 10:40–12:00 (~80 min).*
+*Brochure: “The smartphone: do you know what it’s made of? Where does it end up?” — in this recipe **10:30–12:00** (~90 min), after a **short break** 10:20–10:30.*
 
 ### Intent
 
@@ -217,9 +218,9 @@ Help participants see a smartphone not only as screen and apps, but as an **asse
 
 | Block | Duration | Approximate time |
 |-------|----------|------------------|
-| Intro + key materials | 25 min | 10:40–11:05 |
-| “Trace the materials” lab | 40 min | 11:05–11:45 |
-| Repair, recycling, wrap-up | 15 min | 11:45–12:00 |
+| Intro + key materials, resource curse, 5 Rs | 30 min | 10:30–11:00 |
+| “Trace the materials” lab | 45 min | 11:00–11:45 |
+| Traceability, discussion, repair/recycling, wrap-up | 15 min | 11:45–12:00 |
 
 !!! warning "Sensitive content (required)"
     In some supply chains (especially **cobalt** and **coltan** in parts of **Central Africa**, including the **DR Congo**) working conditions are dangerous and **child labour** exists. Treat this **without violent images**, **without blaming** young people for phones in their pockets, and offer **opt-out** (quiet space, alternative task with a blank map). One adult stays available for anyone who steps out.
@@ -227,6 +228,16 @@ Help participants see a smartphone not only as screen and apps, but as an **asse
 ### Step 1 — Introduction: materials and regions (~25 min)
 
 #### Typical materials and roles (simplified)
+
+Four **threads** to keep front and centre in Part B (the wider table still supports the map lab):
+
+| Material | Main role in the phone | Note |
+|----------|------------------------|------|
+| **Cobalt** + **lithium** | **Batteries** (lithium-ion) | Mined in several countries; long supply chains behind them. |
+| **Coltan** (ore from which **tantalum** is refined) | **Capacitors** and parts that must stay small and efficient | What is coltan: [Wikipedia (en)](https://en.wikipedia.org/wiki/Coltan), [Wikipedia (it)](https://it.wikipedia.org/wiki/Coltan). |
+| **Copper** | **Wiring** and many PCB traces | Widely recycled — but recycling still has energy and social costs. |
+
+Extended table (for cards and map):
 
 | Material | Where it is often sourced / processed (simplified) | Role in the phone |
 |----------|-----------------------------------------------------|-------------------|
@@ -238,6 +249,16 @@ Help participants see a smartphone not only as screen and apps, but as an **asse
 | **Copper** | Global | Wiring, circuits |
 | **Glass / silicon** | Global | Screen, chips (silicon) |
 | **Plastic / aluminium** | Often manufactured in Asia | Body, structure |
+
+#### The **resource curse**
+
+In many regions, wealth **underground** (minerals, oil, gas) does **not** automatically become well-being for everyone: competition for control, weak governance, conflict, short-term investment — often called the [**resource curse**](https://en.wikipedia.org/wiki/Resource_curse). It is not fate: history and politics matter. In the room the idea only stops the map from looking like a colourful puzzle with no power or accountability.
+
+#### Costs beyond the shop price
+
+- **Social:** health, workplace safety, rights; in some places conflict linked to resources.
+- **Environmental:** extraction, water, soil, emissions, end-of-life e-waste.
+- **Geopolitical:** dependence on a few countries or suppliers, sanctions, trade deals — they shape **price** and **availability** without any young person in the circle being “to blame.”
 
 !!! important "Geographic precision"
     Maps are **pedagogical**, not day-by-day mining reports. Say clearly: *“Mines change; what matters is the **idea** of a global chain and responsibility.”*
@@ -254,7 +275,30 @@ Help participants see a smartphone not only as screen and apps, but as an **asse
 - [UNEP — e-waste / electronic waste](https://www.unep.org/) (search “e-waste” for updated reports)
 - [Fairphone — material reports](https://www.fairphone.com/) (material and supply-chain transparency)
 
-### Step 2 — Lab: “Trace the materials” (~40 min)
+#### What can we do? The **5 Rs** (concrete, not perfectionist)
+
+Easy to remember — try it in **parent–child** pairs:
+
+| English | Italian | Quick example |
+|---------|---------|---------------|
+| **Refuse** | *Rifiutare* | Say no to an unneeded upgrade or promo gadget |
+| **Reduce** | *Ridurre* | Fewer notifications, less mindless scrolling, fewer impulse buys |
+| **Reuse** | *Riutilizzare* | Hand the phone down in the family; buy refurbished |
+| **Repair** | *Riparare* | Battery or screen swap instead of replacing the whole device |
+| **Recycle** | *Riciclare* | WEEE / civic collection; **not** in household bin |
+
+**Brands** (examples only, not endorsement): [Fairphone](https://www.fairphone.com) and [Shiftphone](https://www.shiftphones.com) design for **repair** and **longevity** — discuss: *“What would an ‘ethical phone’ mean? Trade-offs?”*
+
+#### Mineral **traceability** (for curious 12–15s and parents)
+
+Companies and states can require **origin** and **due diligence** for certain minerals tied to conflict or rights abuses:
+
+- **European Union:** Regulation **EU 2017/821** on tin, tantalum, tungsten, and gold from high-risk areas — [EUR-Lex text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0821).
+- **United States:** **Section 1502** of the *Dodd-Frank Act* (disclosure for listed firms on tantalum, tin, tungsten, gold); overview: [Wikipedia — conflict minerals](https://en.wikipedia.org/wiki/Conflict_minerals).
+
+Class message: these are **imperfect tools** that try to make chains **more transparent**; they do not fix everything, but show **law and policy** matter — alongside individual choices.
+
+### Step 2 — Lab: “Trace the materials” (~45 min)
 
 #### Materials
 
@@ -275,7 +319,7 @@ Help participants see a smartphone not only as screen and apps, but as an **asse
 !!! tip "Geography / materials facilitator"
     Keep a **calm** tone; validate feelings (“it’s normal to feel overwhelmed”). Connect to the **right to know** and **recycling** as possible actions.
 
-### Step 3 — Lifespan, repair, recycling (~15 min)
+### Step 3 — Lifespan, repair, recycling, and discussion (~15 min)
 
 | Topic | Points to cover |
 |-------|-----------------|
@@ -285,12 +329,22 @@ Help participants see a smartphone not only as screen and apps, but as an **asse
 
 **Key message:** stay informed, use devices longer, repair when you can, recycle properly, and (for adults) consider products with transparent **reports**.
 
+### Discussion activity (10 min) — young people and parents
+
+In a mixed circle or tables of 4–6:
+
+1. **One word** each: what comes to mind when you hear “mine” or “new phone”? (no judgement.)
+2. **Pairs:** pick **one** of the 5 Rs you can try in the next month — even a small step.
+3. **Open question:** *“Who decides it’s ‘normal’ to upgrade every year?”* (marketing, peers, family…)
+
 ### Group questions (Part B)
 
 1. Which material surprised you most?
 2. Why does such a small object need the **whole world**?
-3. What can **families**, **schools**, **companies**, **governments** do — one action each?
-4. Is it right for a child to work in a mine for our phone? What should change?
+3. How would you explain **coltan** to a friend and why a phone needs it?
+4. What does the **resource curse** have to do with a smartphone — **without** blaming one country?
+5. What can **families**, **schools**, **companies**, **governments** do — **one** action each (tie to the 5 Rs or traceability)?
+6. Is it right for a child to work in a mine for our phone? What should change **locally** and **globally**?
 
 ### Adaptations
 
