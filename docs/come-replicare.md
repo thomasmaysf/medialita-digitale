@@ -34,7 +34,7 @@ Non serve un docente “full time”: volontari preparati che abbiano letto il m
 
 ## Come adattare i moduli
 
-1. **Età mista (circa 4ª–9ª)** — ogni modulo indica adattamenti per i più piccoli e i più grandi; accorciate le tabelle o fate lavorare in coppie adulto–bambino.
+1. **Età** — l’edizione Trento 2026/27 è pensata per circa **12–15 anni** con i genitori; per gruppi più piccoli o più grandi, accorciate le tabelle o lavorate sempre in coppia adulto–ragazzo.
 2. **Tempo** — tagliate un’attività opzionale piuttosto che correre su Parte C; il laboratorio è ciò che i ragazzi ricordano.
 3. **Lingua e cultura** — traducete i `.en.md` o scrivete varianti locali; sostituite esempi (emoji, mappe) con il vostro contesto.
 4. **Edizione locale** — tenete date, nomi e iscrizioni in una pagina breve o in un box “La nostra edizione”, non nel cuore della ricetta.

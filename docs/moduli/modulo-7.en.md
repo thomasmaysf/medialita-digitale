@@ -1,10 +1,16 @@
-# Module 7 — Feedback and certificate ceremony
+# Module 7 — Parallel closing, plenary, certificates
 
-**Date:** Saturday 15 May 2027 · **Status:** scheduled
+**Theme (brochure):** session for **grade 8 / lower-secondary year 3** students and parents (2026/27 edition): 1) **Parents’ session / young people’s closing circle** — gathering reflections on the path; 2) **Closing session with young people / parents’ closing circle**; 3) **Plenary and awarding certificates** (*patentino*).
 
-**Theme:** hearing from young people and adults about the path, a closing plenary, and awarding the **digital license** (*patentino*).
+!!! info "Our edition (Trento 2026/27)"
+    - **Date:** Saturday 15 May 2027 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **For:** students and parents in **grade 8 / Terza media** (as in brochure).
+    - **Certification (brochure):** the **digital license** for **grade 8** students who attended **all modules** with **parents at the final meeting**; for **grade 7** the award is planned **May 2028** (additional modules in the following year encouraged).
 
-**Why it matters:** Closing together helps families take home useful questions and agreements; the license recognises active participation and the group’s shared rules.
+**Why it matters:** Closing **in parallel** (adults and young people) respects different processing times; the **plenary** and **certificates** celebrate the shared path.
+
+!!! tip "Replicable playbook"
+    Other schools may run a final module **open to all grades** or copy the parallel structure; define **who** receives a certificate and **under what criteria**.
 
 ### Typical schedule
 
@@ -17,16 +23,18 @@
 
 ## Session outline (program)
 
-### Part A — Feedback with the young people (9:00–10:20)
+### Part A — Parents / young people’s circle (9:00–10:20)
 
-Structured time to gather impressions, open questions, and suggestions about the program.
+- **Parents:** meeting to share reflections on the program (group facilitator).
+- **Young people:** **closing** circle in parallel (facilitator plus second adult).
 
-### Part B — Feedback with the adults (10:40–12:00)
+### Part B — Young people / parents’ circle (10:40–12:00)
 
-Parallel or dedicated moment for parents and other adults on the experience at home and at school.
+- **Young people:** **closing** session (what emerged, questions for the future).
+- **Parents:** **closing** circle in parallel.
 
-### Part C — Plenary and handing out the licenses (12:00–13:20)
+### Part C — Plenary and certificates (12:00–13:20)
 
-Shared recap of the path, thanks, and formal presentation of the **digital license** to participants.
+**Plenary** with everyone: summary, thanks, **certificate** handout (*patentino* per local rules).
 
-<!-- TODO: detailed lesson plan (worksheets, materials, timing, and feedback formats) -->
+<!-- TODO: detailed timing, plenary moderation, certificate list -->

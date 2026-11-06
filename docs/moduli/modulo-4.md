@@ -1,13 +1,16 @@
-# Modulo 4 — Algoritmi, autoregolazione e privacy
+# Modulo 4 — Identità, sicurezza sociale, cianografia
 
-**Data:** sabato 20 febbraio 2027 · **Stato:** in programma
+**Tema (brochure):** 1) **Identità e avatar**; 2) **Social e sicurezza** — rischi e trappole (a cura della **Polizia postale**); 3) **Laboratorio** — **Cianotipia**.
 
-**Tema:** come i contenuti online vengono selezionati e manipolati, dipendenza e autoregolazione, e la storia recente della privacy.
+!!! info "La nostra edizione (Trento 2026/27)"
+    - **Data:** sabato 20 febbraio 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Pubblico:** circa **12–15 anni** con genitori.
+    - **Parte B:** incontro con **Polizia postale** (composizione e formati **soggetti a conferma**).
 
-**Perché conta:** Wikipedia, feed e deep fake influenzano ciò che crediamo vero; riconoscere *ganci* digitali e proteggere i propri dati sono competenze civiche, non solo tecniche.
+**Perché conta:** Comprendere **avatar**, **profilo** e **trappole** online (grooming, truffe, furto d’identità) insieme ad adulti informati riduce il rischio e aumenta la fiducia nel chiedere aiuto.
 
 !!! note "Gennaio"
-    A **gennaio** non ci sono incontri: pausa programmata tra il modulo 3 (dicembre) e questo modulo.
+    A **gennaio** non ci sono incontri: pausa programmata tra il modulo 3 e questo.
 
 ### Orario tipo
 
@@ -20,16 +23,16 @@
 
 ## Parti dell’incontro (programma)
 
-### Parte A — Algoritmi e Wikipedia (9:00–10:20)
+### Parte A — Identità e avatar (9:00–10:20)
 
-Con **Stefano**: come si seleziona e a volte si manipola l’informazione online, *ganci* digitali, giudizio sulle fonti e introduzione ai deep fake.
+Come nasce l’**identità** anche online; attività con **foto** o disegno e costruzione/racconto di un **avatar** (metafora di “come ci presentiamo agli altri”).
 
-### Parte B — Dipendenze e autoregolazione (10:40–12:00)
+### Parte B — Social e sicurezza: rischi e trappole (10:40–12:00)
 
-Relatore o relatrice **da confermare**: riflessione su abitudini digitali difficili da fermare e strategie di autoregolazione adatte all’età.
+Con facilitatori con formazione in **sicurezza online** (nell’edizione Trento: **Polizia postale**): cyberbullismo, grooming, truffe, furto d’identità, limiti d’età — con linguaggio **non allarmistico** e spazio per domande genitori–figli.
 
-### Parte C — Laboratorio privacy: storia dalla metà degli anni ’90 (12:00–13:20)
+### Parte C — Laboratorio: cianotipia (12:00–13:20)
 
-Con **Thomas**: cosa è cambiato nella privacy personale e nei dati con internet e i social, con esercizi pratici di consapevolezza.
+Stampa **cianotipo**: luce e chimica, legame metaforico con “**impronta**” e immagine che resta — collegabile all’idea che anche in rete restano **tracce**.
 
-<!-- TODO: piano di lezione dettagliato (schede, materiali, tempi interni alle parti A–C) -->
+<!-- TODO: piano dettagliato (materiali cianotipo, sicurezza chimica, consenso foto) -->

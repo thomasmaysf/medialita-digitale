@@ -1,10 +1,12 @@
-# Modulo 6 — Intelligenza artificiale, elettromagnetismo e riciclo
+# Modulo 6 — IA, elettromagnetismo, portacellulare
 
-**Data:** sabato 17 aprile 2027 · **Stato:** in programma
+**Tema (brochure):** 1) **Alla scoperta dei sistemi delle IA** — opportunità e limiti; 2) **Elettromagnetismo, salute e sicurezza**; 3) **Laboratorio** — **Costruzione del portacellulare con materiale di recupero**.
 
-**Tema:** opportunità e limiti dell’IA (incluso chi addestra i modelli), elettromagnetismo in rapporto a salute e sicurezza, e costruzione pratica con materiali di recupero.
+!!! info "La nostra edizione (Trento 2026/27)"
+    - **Data:** sabato 17 aprile 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Pubblico:** circa **12–15 anni** con genitori.
 
-**Perché conta:** L’IA non è magia neutrale: dietro ci sono dati e lavoro umano spesso invisibile; capire campi elettromagnetici e riusare materiali collega tecnologia, corpo e ambiente.
+**Perché conta:** L’**IA** non è neutra (dati, energia, lavoro); l’**elettromagnetismo** collega tecnologia al **corpo**; il **riciclo** nel laboratorio chiude il cerchio col Modulo 2.
 
 ### Orario tipo
 
@@ -17,16 +19,16 @@
 
 ## Parti dell’incontro (programma)
 
-### Parte A — Intelligenza artificiale: opportunità e limiti (9:00–10:20)
+### Parte A — Sistemi di IA: opportunità e limiti (9:00–10:20)
 
-Chi addestra l’IA, da dove arrivano i dati, e condizioni di lavoro — incluso lo sfruttamento di lavoratori in alcuni paesi africani — spiegati in modo adatto al gruppo.
+Cosa significa **addestrare** un modello; dati; limiti (errori, bias) e uso responsabile — linguaggio adatto al gruppo, senza allarmismo.
 
 ### Parte B — Elettromagnetismo, salute e sicurezza (10:40–12:00)
 
-Con **Elisa** e **Consuelo**: nozioni di base su campi elettromagnetici, dispositivi quotidiani e buone pratiche di sicurezza.
+Nozioni di base su **campi elettromagnetici** e dispositivi quotidiani; buone pratiche (distanza, notte, auricolari) senza pseudoscienza.
 
-### Parte C — Laboratorio: supporto per telefono con materiali riciclati (12:00–13:20)
+### Parte C — Laboratorio: portacellulare a materiale recuperato (12:00–13:20)
 
-Con **Elisa** e **Consuelo**: progettazione e montaggio di un supporto per smartphone usando materiali di recupero.
+Progettazione e montaggio di un **supporto per smartphone** con **materiali di recupero** — solo adulti per tagli e colla a caldo se usata.
 
-<!-- TODO: piano di lezione dettagliato (schede, materiali, tempi interni alle parti A–C) -->
+<!-- TODO: piano dettagliato (materiali, sicurezza, design) -->

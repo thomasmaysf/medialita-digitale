@@ -1,6 +1,11 @@
 # Digital Media Education
 
-**Open-source playbook** for a **digital media education** path with young people (roughly **grades 4–9**) and parents: discussion circles, hands-on labs, and a modular family digital pact (*patentino*).
+**Open-source playbook** for a **digital media education** path with young people aged **roughly 12–15** and **parents** — adapt to other age bands if you reuse it elsewhere.
+
+!!! quote "Plutarch (free translation)"
+    “The young are not vessels to be filled, but torches to be lit.”
+
+> *To navigate safe waters, consciousness is needed.*
 
 You may **copy, translate, and adapt** the modules for your school or group. Educational content is licensed under **[Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — start with [How to run this yourself](come-replicare.md) and [Module 1](moduli/modulo-1.md).
 
@@ -8,7 +13,7 @@ You may **copy, translate, and adapt** the modules for your school or group. Edu
 
 Modular sessions where young people and parents explore the digital world together: not only *how* technology works, but **how we relate** to it at home and at school.
 
-At the end, participants can receive a **digital license** (stamp per module), recognising active participation and shared rules.
+At the end, participants can receive a **digital license** (**one stamp per module** in a **booklet**, as in the brochure), recognising active participation and shared rules — **exact rules** depend on your local edition (see [Registration](iscrizioni.md)).
 
 ## Local edition: Trento
 

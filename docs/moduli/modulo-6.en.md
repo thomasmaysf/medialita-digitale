@@ -1,10 +1,12 @@
-# Module 6 — Artificial intelligence, electromagnetism, and recycling
+# Module 6 — AI, electromagnetism, phone stand
 
-**Date:** Saturday 17 April 2027 · **Status:** scheduled
+**Theme (brochure):** 1) **Exploring AI systems** — opportunities and limits; 2) **Electromagnetism, health, and safety**; 3) **Lab** — **Building a phone holder from reclaimed materials**.
 
-**Theme:** opportunities and limits of AI (including who trains models), electromagnetism related to health and safety, and a hands-on build with reclaimed materials.
+!!! info "Our edition (Trento 2026/27)"
+    - **Date:** Saturday 17 April 2027 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Audience:** about **ages 12–15** with parents.
 
-**Why it matters:** AI is not neutral magic: data and human labour sit behind it, often unseen; understanding electromagnetic fields and reusing materials connects technology, body, and environment.
+**Why it matters:** **AI** is not neutral (data, energy, labour); **electromagnetism** links technology to the **body**; **recycling** in the lab closes the loop with Module 2.
 
 ### Typical schedule
 
@@ -17,16 +19,16 @@
 
 ## Session outline (program)
 
-### Part A — AI: opportunities and limits (9:00–10:20)
+### Part A — AI systems: opportunities and limits (9:00–10:20)
 
-Who trains AI, where data comes from, and working conditions — including exploitation of workers in some African countries — explained in an age-appropriate way.
+What **training** a model means; data; limits (errors, bias) and responsible use — age-appropriate, non-alarmist language.
 
 ### Part B — Electromagnetism, health, and safety (10:40–12:00)
 
-With **Elisa** and **Consuelo**: basics of electromagnetic fields, everyday devices, and sensible safety practices.
+Basics of **electromagnetic fields** and everyday devices; sensible habits (distance, night, headphones) without pseudoscience.
 
-### Part C — Lab: phone holder from recycled materials (12:00–13:20)
+### Part C — Lab: phone holder from reclaimed materials (12:00–13:20)
 
-With **Elisa** and **Consuelo**: design and build a smartphone stand using reclaimed materials.
+Design and build a **smartphone stand** from **reclaimed materials** — adults only for cuts and hot glue if used.
 
-<!-- TODO: detailed lesson plan (worksheets, materials, timing within parts A–C) -->
+<!-- TODO: detailed plan (materials, safety, design) -->

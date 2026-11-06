@@ -1,10 +1,16 @@
-# Modulo 7 — Feedback e consegna del patentino
+# Modulo 7 — Chiusura parallela, plenum, attestati
 
-**Data:** sabato 15 maggio 2027 · **Stato:** in programma
+**Tema (brochure):** incontro dedicato a **ragazzi e genitori della VIII / Terza media** (come da edizione 2026/27): 1) **Incontro con i genitori / cerchio di chiusura con i ragazzi** — raccolta di considerazioni sul percorso; 2) **Incontro conclusivo con i ragazzi / cerchio conclusivo con i genitori**; 3) **PLENUM e consegna attestati** (*patentino*).
 
-**Tema:** ascoltare ragazzi e adulti su quanto vissuto nel percorso, plenaria conclusiva e consegna del **patentino digitale**.
+!!! info "La nostra edizione (Trento 2026/27)"
+    - **Data:** sabato 15 maggio 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Riservato a:** ragazzi e genitori di **VIII / Terza media** (come da brochure).
+    - **Attestazione (brochure):** il **patentino** per gli studenti di **VIII** che hanno partecipato a **tutti i moduli** e con **genitori presenti** all’incontro finale; per la **VII** la consegna è prevista **maggio 2028** (si invita a seguire moduli aggiuntivi nell’anno successivo).
 
-**Perché conta:** Chiudere insieme permette di portare a casa domande e accordi utili; il patentino riconosce la partecipazione attiva e le regole condivise del gruppo.
+**Perché conta:** Chiudere in **parallelo** (adulti e ragazzi) rispetta tempi diversi di elaborazione; il **plenum** e gli **attestati** celebrano il percorso condiviso.
+
+!!! tip "Playbook replicabile"
+    Altre scuole possono tenere un modulo finale **aperto a tutte le classi** o duplicare la struttura parallela; l’importante è definire **chi** riceve l’attestato e **con quali criteri**.
 
 ### Orario tipo
 
@@ -17,16 +23,18 @@
 
 ## Parti dell’incontro (programma)
 
-### Parte A — Feedback con i ragazzi (9:00–10:20)
+### Parte A — Genitori / cerchio ragazzi (9:00–10:20)
 
-Spazio strutturato per raccogliere impressioni, domande aperte e suggerimenti sul percorso.
+- **Genitori:** incontro per condividere considerazioni sul percorso (facilitatore o facilitatrice di gruppo).
+- **Ragazzi:** cerchio di **chiusura** parallelo (facilitatore o facilitatrice con secondo adulto).
 
-### Parte B — Feedback con gli adulti (10:40–12:00)
+### Parte B — Ragazzi / cerchio genitori (10:40–12:00)
 
-Momento parallelo o dedicato ai genitori e agli altri adulti del gruppo, sul vissuto in famiglia e a scuola.
+- **Ragazzi:** incontro **conclusivo** (restituzione di quanto emerso, domande verso il futuro).
+- **Genitori:** cerchio **conclusivo** parallelo.
 
-### Parte C — Plenaria e consegna dei patentini (12:00–13:20)
+### Parte C — Plenum e consegna attestati (12:00–13:20)
 
-Riepilogo condiviso del percorso, ringraziamenti e consegna formale del **patentino digitale** a chi ha partecipato.
+**Plenum** con tutti: sintesi, ringraziamenti, **consegna attestati** (*patentino* secondo i criteri dell’edizione locale).
 
-<!-- TODO: piano di lezione dettagliato (schede, materiali, tempi interni e modalità feedback) -->
+<!-- TODO: scaletta dettagliata tempi, moderazione plenum, lista attestati -->

@@ -1,10 +1,12 @@
-# Module 5 — Identity, online safety, and cyanotype
+# Module 5 — Social/2, hostile words, body language
 
-**Date:** Saturday 20 March 2027 · **Status:** scheduled
+**Theme (brochure):** 1) **Social/2** — *is the net a meeting place?*; 2) **Hostile words** — communication with digital language, **rules for good use**; 3) **Lab** — **The language of the body**.
 
-**Theme:** how identity forms (including online), concrete risks on social platforms, and a creative cyanotype lab.
+!!! info "Our edition (Trento 2026/27)"
+    - **Date:** Saturday 20 March 2027 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Audience:** about **ages 12–15** with parents.
 
-**Why it matters:** Avatars, photos, and profiles shape how others see us; cyberbullying, grooming, and identity theft need clear rules and informed adults.
+**Why it matters:** Asking whether the internet is **meeting** or **conflict** prepares the group for **hostile words** and clear rules; the **body** reminds us communication is not only text on a screen.
 
 ### Typical schedule
 
@@ -17,16 +19,16 @@
 
 ## Session outline (program)
 
-### Part A — Identity: formation, photos, and avatars (9:00–10:20)
+### Part A — Social/2: is the net a meeting place? (9:00–10:20)
 
-With **Sara N.**: how identity develops, a photo activity, and the story of an avatar.
+Guided discussion: online community vs isolation, groups, echo chambers — concrete examples and prompts for parents and young people.
 
-### Part B — Social media and safety (10:40–12:00)
+### Part B — Hostile words and digital language (10:40–12:00)
 
-With **Postal Police** (*Polizia postale*) and **Stefano** (line-up **subject to change**): cyberbullying, grooming, identity theft, and platform age limits.
+How **tone** shifts online; **hostile** or degrading language; **rules for good use** (family agreements, reporting, leaving harmful chats).
 
-### Part C — Cyanotype lab (12:00–13:20)
+### Part C — Lab: body language (12:00–13:20)
 
-With **Sara N.**: alternative photographic printing using the cyanotype process.
+Non-verbal awareness exercises: posture, gaze, distance, breathing — helpful when reading an ambiguous or “cold” message behind a screen.
 
-<!-- TODO: detailed lesson plan (worksheets, materials, timing within parts A–C) -->
+<!-- TODO: detailed plan (exercises, space, theatre / movement facilitation) -->

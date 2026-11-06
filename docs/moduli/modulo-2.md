@@ -1,11 +1,12 @@
-# Modulo 2 — Simboli, materiali del telefono e fotografia
+# Modulo 2 — Caverne allo schermo, smartphone, pellicola→pixel
 
-**Tema:** come simboli e immagini comunicano emozioni nel tempo; da quali materiali e filiere nasce uno smartphone; come la fotografia è passata dalla pellicola al file digitale — e perché i **pixel** e i **colori** si collegano al binario del [Modulo 1](modulo-1.md).
+**Tema (brochure):** 1) **Dai graffiti delle caverne allo schermo** — la ritualizzazione dell’immagine; 2) **Lo smartphone** — con che materiali è fatto, dove finiscono; 3) **Laboratorio** — **Dalla pellicola al file, dalla luce al pixel** (come nella ricetta dettagliata sotto).
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 14 novembre 2026
-    - **Facilitatori locali:** Camilla (Parte A), Consuelo / Elisa / Mpaliza (Parte B), Thomas / Stefano (Parte C); **Parte D** serale facoltativa con Consuelo / Elisa / Mpaliza
-    - **Sede:** da definire
+    - **Data:** sabato 14 novembre 2026 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Collaborazioni** (come da brochure): **Camilla Lorenzini** (docente, artista); **John Mpaliza** (ingegnere informatico, attivista diritti umani); **Paola Meina** (arteterapeuta, formatrice); **Polizia Postale**; **Enrica dal Zio** (attrice, regista, ecc.); **Marco Montali** (professore universitario di ingegneria informatica); **Giorgio Capellani** (insegnante di materie scientifiche alle superiori) — *non tutti i nomi intervengono in ogni modulo; qui sono di riferimento per l’edizione locale.*
+    - Facilitazione quotidiana tipica: modulo preparato dal **gruppo Patentino digitale** con esperti ospiti per le singole parti.
+
 
 **Perché conta:** Collegare arte, geografia e tecnologia agli oggetti che i ragazzi usano ogni giorno aiuta a leggere emoji e foto con più consapevolezza, a chiedersi *da dove* arrivano i materiali e *a chi* costa la produzione, e a capire che ogni immagine sullo schermo è anche una griglia di numeri.
 
@@ -26,7 +27,7 @@ Al termine del modulo, ragazzi e genitori dovrebbero poter:
 
 ## Pubblico
 
-- **Classi:** circa 4ª–9ª (9–15 anni), con **genitori o caregiver** presenti per tutta la mattinata.
+- **Età (brochure 2026/27):** circa **12–15 anni**, con **genitori o caregiver** presenti per tutta la mattinata.
 - **Prerequisiti utili:** aver partecipato al [Modulo 1](modulo-1.md) (binario, onde/griglia, «dentro i dispositivi») — non obbligatorio, ma facilita i riferimenti in Parte C.
 - **Attitudine:** mix di ascolto, disegno, discussione e laboratorio leggero; nessuna competenza tecnica richiesta.
 
@@ -52,11 +53,11 @@ Al termine del modulo, ragazzi e genitori dovrebbero poter:
 
 | Blocco | Orario indicativo | Durata |
 |--------|-------------------|--------|
-| **Parte A** — Dai simboli alle emoji | 9:00–10:20 | ~80 min |
+| **Parte A** — Dai graffiti allo schermo | 9:00–10:20 | ~80 min |
 | **Pausa** | 10:20–10:40 | 20 min |
-| **Parte B** — Cosa c’è dentro uno smartphone | 10:40–12:00 | ~80 min |
-| **Parte C** — Fotografia: dalla pellicola al file | 12:00–13:20 | ~80 min |
-| **Parte D** (facoltativa) — Serata genitori | serata, TBD | ~90 min |
+| **Parte B** — Materiali e destino dello smartphone | 10:40–12:00 | ~80 min |
+| **Parte C** — Dalla pellicola al file, luce al pixel | 12:00–13:20 | ~80 min |
+| **Parte D** (facoltativa, *non* in calendario brochure) | serata facoltativa | ~90 min |
 
 ---
 
@@ -113,13 +114,13 @@ Costi **approssimativi** per una edizione con ~15–25 ragazzi + genitori, riuso
 
 ---
 
-## Parte A — Dai simboli alle emoji {#parte-a-dai-simboli-alle-emoji}
+## Parte A — Dai graffiti delle caverne allo schermo: ritualizzazione dell’immagine {#parte-a-dai-simboli-alle-emoji}
 
-*Orario indicativo: 9:00–10:20 (~80 min).*
+*Brochure: «Dai graffiti delle caverne allo schermo: la ritualizzazione dell’immagine» — orario 9:00–10:20 (~80 min).*
 
 ### Intent
 
-Mostrare che comunicare **senza parole** è antico quanto l’uomo: segni sulla roccia, scrittura a simboli, icone religiose e commerciali, fino alle **emoji** — stesso bisogno (dirò qualcosa in fretta), supporti e regole diverse.
+Mostrare che comunicare **senza parole** è antico quanto l’uomo: segni sulla roccia, scrittura a simboli, icone religiose e commerciali, fino alle **emoji** — stesso bisogno (dirò qualcosa in fretta), supporti e regole diverse. Il percorso **dai graffiti allo schermo** mette in luce come l’immagine sia da sempre **carica di senso rituale e sociale**, non solo decorazione.
 
 ### Tempi suggeriti (interni)
 
@@ -169,8 +170,8 @@ Mostrare che comunicare **senza parole** è antico quanto l’uomo: segni sulla 
 
 | Gruppo | Adattamento |
 |--------|-------------|
-| **Più piccoli (4ª–5ª)** | Solo **3 simboli**; concetti concreti (mangiare, dormire, giocare). |
-| **Più grandi (7ª–9ª)** | Aggiungete un simbolo **combinato** (due simboli = frase) come nei geroglifici. |
+| **Più giovani (12–13)** | Solo **3 simboli**; concetti concreti (mangiare, dormire, giocare). |
+| **Più grandi (14–15)** | Aggiungete un simbolo **combinato** (due simboli = frase) come nei geroglifici. |
 | **Famiglie multilingue** | Permettete etichette in **due lingue** sotto il simbolo — parlate di **Unicode** come «alfabeto mondiale» per emoji. |
 
 ### Step 3 — Emoji: culture e generazioni (~20 min)
@@ -206,13 +207,13 @@ Ripassate: **simbolo + contesto + chi legge**. Anticipate Parte B: *«Nel telefo
 
 ---
 
-## Parte B — Cosa c’è dentro uno smartphone {#parte-b-cosa-ce-dentro-uno-smartphone}
+## Parte B — Lo smartphone: materiali e destino {#parte-b-cosa-ce-dentro-uno-smartphone}
 
-*Orario indicativo: 10:40–12:00 (~80 min).*
+*Brochure: «Lo Smartphone: sai con che materiali è fatto? Sai dove vanno a finire?» — orario 10:40–12:00 (~80 min).*
 
 ### Intent
 
-Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento di materiali** con **geografie** e **conseguenze** — ambiente, salute, lavoro — e come scelte di **durata**, **riparazione** e **riciclo** contano.
+Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento di materiali** con **geografie** e **conseguenze** — ambiente, salute, lavoro — e come scelte di **durata**, **riparazione** e **riciclo** contano (*dove vanno a finire* = discariche, riciclo, seconda vita).
 
 ### Tempi suggeriti (interni)
 
@@ -303,9 +304,9 @@ Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento
 
 ---
 
-## Parte C — Fotografia: dalla pellicola al file {#parte-c-fotografia-dalla-pellicola-al-file}
+## Parte C — Dalla pellicola al file, dalla luce al pixel {#parte-c-fotografia-dalla-pellicola-al-file}
 
-*Orario indicativo: 12:00–13:20 (~80 min).*
+*Brochure: «Laboratorio: Dalla pellicola al file, dalla luce al pixel» — orario 12:00–13:20 (~80 min).*
 
 ### Intent
 
@@ -395,6 +396,9 @@ Riepilogo **tre fili**: simboli, materiali, luce→numeri. **Timbro patentino** 
 ---
 
 ## Parte D (facoltativa) — Serata genitori {#parte-d-serata-genitori}
+
+!!! note "Non in calendario brochure 2026/27"
+    Questa serata **facoltativa** è un’aggiunta playbook per approfondire con i soli genitori; **non** compare nel programma ufficiale a foglio.
 
 *Orario e sede: da definire (~90 min).*
 
