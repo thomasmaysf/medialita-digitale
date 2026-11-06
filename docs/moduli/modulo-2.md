@@ -3,7 +3,8 @@
 **Tema (brochure):** 1) **Dai graffiti delle caverne allo schermo** — la ritualizzazione dell’immagine; 2) **Lo smartphone** — con che materiali è fatto, dove finiscono; 3) **Laboratorio** — **Dalla pellicola al file, dalla luce al pixel** (come nella ricetta dettagliata sotto).
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 14 novembre 2026 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Data:** sabato 14 novembre 2026 · **Orario mattina:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Parte B:** **10:30–12:00** — condotta da **John Mpaliza** (dalla RD del Congo, ingegnere informatico, attivista per i diritti umani), che porta un **racconto e un punto di vista diretti** sulle filiere estrattive del suo paese. Nel playbook generico, la stessa parte può essere affidata a un **testimone ospite** con esperienza diretta di regioni minerarie.
     - Modulo preparato dal **gruppo Patentino digitale**, con **esperti ospiti** per le Parti A, B e C (ruoli come in playbook: storia dell’arte/simboli, geografia/materiali, fotografia/tecnologia).
 
 
@@ -53,8 +54,8 @@ Al termine del modulo, ragazzi e genitori dovrebbero poter:
 | Blocco | Orario indicativo | Durata |
 |--------|-------------------|--------|
 | **Parte A** — Dai graffiti allo schermo | 9:00–10:20 | ~80 min |
-| **Pausa** | 10:20–10:40 | 20 min |
-| **Parte B** — Materiali e destino dello smartphone | 10:40–12:00 | ~80 min |
+| **Pausa** | 10:20–10:30 | 10 min |
+| **Parte B** — Materiali e destino dello smartphone | 10:30–12:00 | ~90 min |
 | **Parte C** — Dalla pellicola al file, luce al pixel | 12:00–13:20 | ~80 min |
 | **Parte D** (facoltativa, *non* in calendario brochure) | serata facoltativa | ~90 min |
 
@@ -208,7 +209,7 @@ Ripassate: **simbolo + contesto + chi legge**. Anticipate Parte B: *«Nel telefo
 
 ## Parte B — Lo smartphone: materiali e destino {#parte-b-cosa-ce-dentro-uno-smartphone}
 
-*Brochure: «Lo Smartphone: sai con che materiali è fatto? Sai dove vanno a finire?» — orario 10:40–12:00 (~80 min).*
+*Brochure: «Lo Smartphone: sai con che materiali è fatto? Sai dove vanno a finire?» — in questa ricetta **10:30–12:00** (~90 min), dopo una **pausa breve** 10:20–10:30.*
 
 ### Intent
 
@@ -218,9 +219,9 @@ Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento
 
 | Blocco | Durata | Orario indicativo |
 |--------|--------|-------------------|
-| Intro + materiali chiave | 25 min | 10:40–11:05 |
-| Laboratorio «traccia i materiali» | 40 min | 11:05–11:45 |
-| Riparazione, riciclo, chiusura | 15 min | 11:45–12:00 |
+| Intro + materiali chiave, maledizione delle risorse, 5 R | 30 min | 10:30–11:00 |
+| Laboratorio «traccia i materiali» | 45 min | 11:00–11:45 |
+| Tracciabilità, discussione, riparazione/riciclo, chiusura | 15 min | 11:45–12:00 |
 
 !!! warning "Contenuti sensibili (obbligatorio)"
     In alcune filiere (in particolare **cobalto** e **coltan** in regioni dell’Africa centrale, tra cui la **RD Congo**) esistono condizioni di lavoro pericolose e **lavoro minorile**. Trattateli **senza immagini violente**, **senza colpevolizzare** i ragazzi per il telefono in tasca, e offrite **opt-out** (spazio tranquillo, compito alternativo con mappa vuota). Un adulto resta disponibile per chi esce.
@@ -228,6 +229,16 @@ Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento
 ### Step 1 — Introduzione: materiali e regioni (~25 min)
 
 #### Materiali tipici e a cosa servono (semplificato)
+
+Quattro **filoni** da tenere ben presenti in Parte B (restano utili anche tutti gli altri):
+
+| Materiale | Ruolo principale nel telefono | Nota |
+|-----------|-------------------------------|------|
+| **Cobalto** + **litio** | Legati alle **batterie** agli ioni di litio | Il cobalto e il litio si estraggono in più paesi; dietro ci sono filiere lunghe. |
+| **Coltan** (minerale da cui si ottiene **tantalio**) | **Condensatori** e componenti che devono essere piccoli ed efficienti | Cosa è il coltan: [Wikipedia (it)](https://it.wikipedia.org/wiki/Coltan), [Wikipedia (en)](https://en.wikipedia.org/wiki/Coltan). |
+| **Rame** | **Cablaggi** e molte piste sui circuiti stampati | Materiale molto riciclato — ma riciclare ha comunque costi energetici. |
+
+Tabella estesa (per la mappa e le schede):
 
 | Materiale | Dove tende a essere estratto / lavorato (semplificato) | Ruolo nel telefono |
 |-----------|--------------------------------------------------------|---------------------|
@@ -239,6 +250,16 @@ Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento
 | **Rame** | Globale | Cablaggi, circuiti |
 | **Vetro / silicio** | Globale | Schermo, chip (silicio) |
 | **Plastica / alluminio** | Produzione spesso in Asia | Corpo, struttura |
+
+#### La «maledizione delle risorse» (resource curse)
+
+In molte zone del mondo la ricchezza **sotto terra** (minerali, petrolio, gas) **non** si traduce automaticamente in benessere per tutti: concorrenza per il controllo delle risorse, governi poco trasparenti, conflitti, investimenti a breve termine — si parla di **maledizione delle risorse** (*resource curse*): [Wikipedia (en)](https://en.wikipedia.org/wiki/Resource_curse); articolo collegato in italiano (es. effetti socio-economici delle risorse): [Wikipedia (it) — risorsa naturale](https://it.wikipedia.org/wiki/Risorsa_naturale). Non è una «legge» del destino: serve contesto storico e politico; qui serve solo a **non** ridurre la filiera a una mappa colorata senza potere e responsabilità.
+
+#### Costi oltre il prezzo in negozio
+
+- **Sociali:** salute, sicurezza sul lavoro, diritti, in alcuni casi anche conflitti collegati alle risorse.
+- **Ambientali:** estrazione, acqua, suolo, emissioni, scarti elettronici a fine vita.
+- **Geopolitici:** dipendenza da pochi paesi o fornitori, sanzioni, accordi commerciali — influenzano **prezzo** e **disponibilità** senza che un ragazzo in aula ne abbia colpa.
 
 !!! important "Precisione geografica"
     Le mappe sono **didattiche**, non report minerari aggiornati al giorno. Dite esplicitamente: *«Le miniere cambiano; quello che importa è l’**idea** di filiera globale e responsabilità.»*
@@ -255,7 +276,30 @@ Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento
 - [UNEP — e-waste / rifiuti elettronici](https://www.unep.org/) (cercare «e-waste» per report aggiornati)
 - [Fairphone — material reports](https://www.fairphone.com/) (trasparenza materiali e supply chain)
 
-### Step 2 — Laboratorio: «Traccia i materiali» (~40 min)
+#### Cosa possiamo fare? Le **5 R** (azione concreta, senza perfezionismo)
+
+Una maniera semplice da ricordare — da proporre in coppia **genitore–figlio**:
+
+| Inglese | Italiano | Esempio rapido |
+|---------|----------|----------------|
+| **Refuse** | **Rifiutare** | Dire no a un upgrade inutile o a gadget promozionali |
+| **Reduce** | **Ridurre** | Meno notifiche, meno schermo, meno acquisti impulsivi |
+| **Reuse** | **Riutilizzare** | Passare il telefono in famiglia, comprare ricondizionato |
+| **Repair** | **Riparare** | Cambiare batteria o schermo invece di buttare tutto |
+| **Recycle** | **Riciclare** | RAEE / centri di raccolta; non in bidone domestico |
+
+**Marchi** (solo esempi; non endorsement): prodotti pensati per **riparazione** e **longevità** come [Fairphone](https://www.fairphone.com) e [Shiftphone](https://www.shiftphones.com) — da discutere con i ragazzi: *«Cosa significa “telefono etico”? Costi e limiti?»*
+
+#### Tracciabilità dei minerali (per genitori e ragazzi curiosi, 12–15)
+
+Le aziende e gli Stati possono chiedere **provenienza** e **due diligence** su certi minerali legati a conflitti o violazioni dei diritti:
+
+- **Unione europea:** regolamento **UE 2017/821** su importatori di stagno, tantalio, tungsteno e oro da zone ad alto rischio — testo su [EUR-Lex](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32017R0821).
+- **Stati Uniti:** sezione **1502** del *Dodd-Frank* (rendicontazione per alcune società su tantalio, stagno, tungsteno, oro); panoramica: [Wikipedia — conflict minerals](https://en.wikipedia.org/wiki/Conflict_minerals).
+
+Messaggio per l’aula: sono **strumenti imperfetti** che cercano di rendere la filiera **più trasparente**; non risolvono tutto, ma mostrano che **politica e leggi** contano — oltre alle scelte individuali.
+
+### Step 2 — Laboratorio: «Traccia i materiali» (~45 min)
 
 #### Materiali
 
@@ -276,7 +320,7 @@ Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento
 !!! tip "Facilitatore/trice geografia / materiali"
     Tenete **tono calmo**; validate emozioni («è normale sentirsi sopraffatti»). Collegate al **diritto** all’informazione e al **riciclo** come azioni possibili.
 
-### Step 3 — Durata, riparazione, riciclo (~15 min)
+### Step 3 — Durata, riparazione, riciclo e discussione (~15 min)
 
 | Tema | Punti da toccare |
 |------|------------------|
@@ -286,12 +330,22 @@ Far **vedere** lo smartphone non solo come schermo e app, ma come **assortimento
 
 **Messaggio chiave:** informarsi, usare a lungo, riparare quando si può, riciclare correttamente, e (per adulti) valutare prodotti con **report** trasparenti.
 
+### Attività di discussione (10 min) — ragazzi e genitori
+
+In cerchio misto o tavoli da 4–6:
+
+1. **Una parola** ciascuno: cosa ti viene in mente quando senti «miniera» o «telefono nuovo»? (senza giudizio.)
+2. **Coppia:** scegli **una** delle 5 R che potete provare entro un mese — anche piccola.
+3. **Domanda aperta:** *«Chi decide cosa è “normale” aggiornare il telefono ogni anno?»* (marketing, gruppo pari, famiglia…)
+
 ### Domande per il gruppo (Parte B)
 
 1. Quale materiale vi ha sorpreso di più?
 2. Perché un oggetto così piccolo richiede **tutto il mondo**?
-3. Cosa possono fare **famiglie**, **scuole**, **aziende**, **governi** — una azione ciascuno?
-4. È giusto che un bambino lavori in una miniera per il nostro telefono? Cosa dovrebbe cambiare?
+3. Come spieghi a un amico cos’è il **coltan** e perché serve in un telefono?
+4. La **maledizione delle risorse** cosa c’entra con uno smartphone — senza dare colpa a un singolo paese?
+5. Cosa possono fare **famiglie**, **scuole**, **aziende**, **governi** — **una** azione ciascuno (collegate alle 5 R o alla tracciabilità)?
+6. È giusto che un bambino lavori in una miniera per il nostro telefono? Cosa dovrebbe cambiare a livello **locale** e **globale**?
 
 ### Adattamenti
 
