@@ -3,7 +3,7 @@
 Pagina **locale** per l’edizione Trento. Chi replica il percorso altrove sostituisce questa sezione con le proprie modalità (vedi [Come replicare il percorso](come-replicare.md)).
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, **via Conci 86, Trento** — incontri **9:00–13:20**.
+    - **Sede, orari generali, collaboratori:** [Calendario — La nostra edizione](calendario.md#edizione-trento).
     - **Pubblico:** brochure **12–15 anni** (con genitori); **posti limitati**; per informazioni e iscrizioni: [patentinodigitale@scuolasteiner-trento.it](mailto:patentinodigitale@scuolasteiner-trento.it)
     - **Presenze:** ogni modulo è riconosciuto con un **timbro sul libretto**.
     - **Assenze:** vanno comunicate per tempo; i moduli saltati si possono recuperare in una **edizione successiva** del percorso.

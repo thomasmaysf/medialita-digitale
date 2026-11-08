@@ -17,7 +17,7 @@ Al termine, i partecipanti possono ottenere un **patentino digitale** (nel **lib
 
 ## Edizione locale: Trento
 
-La **Scuola Rudolf Steiner di Trento** usa questa wiki per il calendario 2026/27, iscrizioni e materiali di lavoro del gruppo promotore ([Calendario](calendario.md), [Risorse](risorse.md)). Quelle pagine descrivono **un’implementazione**, non il playbook in sé.
+La **Scuola Rudolf Steiner di Trento** usa questa wiki per il calendario 2026/27, iscrizioni e materiali di lavoro del gruppo promotore ([Calendario](calendario.md), [Risorse](risorse.md)). **Sede, orari, collaboratori e coordinamento** dell’edizione 2026/27: sezione **[La nostra edizione](calendario.md#edizione-trento)** nel [Calendario](calendario.md). Quelle pagine descrivono **un’implementazione**, non il playbook in sé.
 
 ## Contribuire
 

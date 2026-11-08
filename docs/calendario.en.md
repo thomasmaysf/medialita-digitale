@@ -1,6 +1,16 @@
 # Calendar
 
-Sessions are on **Saturdays**, **9:00–13:20**, with the same structure for every module (three parts A / B / C, with a break between).
+Sessions are on **Saturdays**, **9:00–13:20**, with the same structure for every module (three parts A / B / C, with a break between), except for **Module 2** as noted below.
+
+## Our edition (Trento 2026/27) {#edizione-trento}
+
+!!! info "Our edition (Trento 2026/27)"
+    - **Programme:** **2026–2027** · **Saturdays** · **9:00–13:20**
+    - **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, **via Conci 86, Trento**
+    - **Collaborators (as in brochure):** **Camilla Lorenzini** (school teacher, artist); **John Mpaliza** (computer engineer, human rights activist); **Paola Meina** (art therapist, trainer); **Postal Police**; **Enrica dal Zio** (actor, director, clown, word artist, therapist); **Marco Montali** (university professor of computer engineering); **Giorgio Capellani** (high school science teacher) — *not everyone contributes to every module.*
+    - **Coordination:** each module is prepared by the **Digital License (*Patentino digitale*) group**, with **guest experts** for individual parts.
+
+**Module 2:** on that Saturday the break is **10:20–10:30** and **Part B** is **10:30–12:00** (John Mpaliza) — see [Module 2](moduli/modulo-2.md).
 
 ## Typical schedule (each Saturday)
 

@@ -3,8 +3,9 @@
 **Theme (brochure):** 1) **Exploring AI systems** — opportunities and limits; 2) **Electromagnetism, health, and safety**; 3) **Lab** — **Building a phone holder from reclaimed materials**.
 
 !!! info "Our edition (Trento 2026/27)"
-    - **Date:** Saturday 17 April 2027 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Date:** Saturday 17 April 2027
     - **Audience:** about **ages 12–15** with parents.
+    - General logistics (venue, times, collaborators): [Calendar — Our edition](../calendario.md#edizione-trento).
 
 **Why it matters:** **AI** is not neutral (data, energy, labour); **electromagnetism** links technology to the **body**; **recycling** in the lab closes the loop with Module 2.
 

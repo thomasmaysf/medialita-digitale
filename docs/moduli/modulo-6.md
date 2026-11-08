@@ -3,8 +3,9 @@
 **Tema (brochure):** 1) **Alla scoperta dei sistemi delle IA** — opportunità e limiti; 2) **Elettromagnetismo, salute e sicurezza**; 3) **Laboratorio** — **Costruzione del portacellulare con materiale di recupero**.
 
 !!! info "La nostra edizione (Trento 2026/27)"
-    - **Data:** sabato 17 aprile 2027 · **Orario:** 9:00–13:20 · **Sede:** Associazione Pedagogica Steineriana, scuola Rudolf Steiner, via Conci 86, Trento
+    - **Data:** sabato 17 aprile 2027
     - **Pubblico:** circa **12–15 anni** con genitori.
+    - Logistica generale (sede, orari, collaboratori): [Calendario — La nostra edizione](../calendario.md#edizione-trento).
 
 **Perché conta:** L’**IA** non è neutra (dati, energia, lavoro); l’**elettromagnetismo** collega tecnologia al **corpo**; il **riciclo** nel laboratorio chiude il cerchio col Modulo 2.
 

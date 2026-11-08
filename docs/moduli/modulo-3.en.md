@@ -3,9 +3,9 @@
 **Theme (brochure):** 1) **Social/1** — history of distance communication (internet, messaging, social, privacy); the **algorithm**; 2) **Digital dependency**; 3) **Lab** — **From the instrument to streaming**.
 
 !!! info "Our edition (Trento 2026/27)"
-    - **Date:** Saturday 12 December 2026 · **Hours:** 9:00–13:20 · **Venue:** Steiner Pedagogical Association, Rudolf Steiner school, via Conci 86, Trento
+    - **Date:** Saturday 12 December 2026
     - **Audience (brochure):** about **ages 12–15** with parents.
-    - **Collaborators:** Digital License group and network as in [Module 2](modulo-2.en.md).
+    - General logistics and collaborators: [Calendar — Our edition](../calendario.md#edizione-trento).
 
 **Why it matters:** Understanding **how** networks, feeds, and messages work (and **why algorithms** surface some content) underpins choices about **time**, **privacy**, and **dependence** with awareness.
 
